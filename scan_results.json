@@ -4424,6 +4424,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "raw.githubusercontent.com": {
+    "last_scanned": "2026-03-03T20:37:25+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "raw.githunt.com": {
     "last_scanned": "2025-11-01T02:38:50.938301+00:00",
     "malicious": 1,
