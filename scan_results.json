@@ -620,7 +620,7 @@
     "suspicious": 0
   },
   "179.1.240.1": {
-    "last_scanned": "2026-02-01T12:58:38+00:00",
+    "last_scanned": "2026-03-05T10:33:56+00:00",
     "malicious": 1,
     "suspicious": 2
   },
@@ -3820,7 +3820,7 @@
     "suspicious": 0
   },
   "livecdn.live247stream.com": {
-    "last_scanned": "2026-02-03T05:17:50+00:00",
+    "last_scanned": "2026-02-15T01:22:02+00:00",
     "malicious": 1,
     "suspicious": 0
   },
