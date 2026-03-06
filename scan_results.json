@@ -810,9 +810,9 @@
     "suspicious": 0
   },
   "190.90.22.42": {
-    "last_scanned": "2026-02-04T02:26:09+00:00",
+    "last_scanned": "2026-02-20T00:58:39+00:00",
     "malicious": 3,
-    "suspicious": 0
+    "suspicious": 1
   },
   "190.90.22.42:5280": {
     "last_scanned": "2025-12-05T06:34:08+00:00",
@@ -850,7 +850,7 @@
     "suspicious": 0
   },
   "195.226.218.163": {
-    "last_scanned": "2025-11-25T01:41:03+00:00",
+    "last_scanned": "2026-03-05T19:44:31+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -965,9 +965,9 @@
     "suspicious": 0
   },
   "201.217.246.177": {
-    "last_scanned": "2026-02-01T14:22:46+00:00",
-    "malicious": 2,
-    "suspicious": 1
+    "last_scanned": "2026-03-05T19:45:18+00:00",
+    "malicious": 4,
+    "suspicious": 2
   },
   "201.217.246.48": {
     "last_scanned": "2026-03-05T10:53:08+00:00",
@@ -1185,9 +1185,9 @@
     "suspicious": 0
   },
   "51.158.145.100": {
-    "last_scanned": "2026-02-02T13:06:11+00:00",
+    "last_scanned": "2026-03-06T03:11:44+00:00",
     "malicious": 1,
-    "suspicious": 0
+    "suspicious": 1
   },
   "51.222.9.192:3589": {
     "last_scanned": "2025-11-04T03:11:49.518620+00:00",
@@ -2250,7 +2250,7 @@
     "suspicious": 0
   },
   "amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-02T02:34:46+00:00",
+    "last_scanned": "2026-03-05T19:44:48+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2280,7 +2280,7 @@
     "suspicious": 0
   },
   "amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-02T05:27:10+00:00",
+    "last_scanned": "2026-03-05T19:44:12+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2418,6 +2418,11 @@
     "last_scanned": "2026-02-15T07:58:57+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "arectv30.sbs": {
+    "last_scanned": "2026-03-05T19:45:12+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "arenasportslovakia.ddns.net": {
     "last_scanned": "2026-02-18T05:45:48+00:00",
@@ -2740,7 +2745,7 @@
     "suspicious": 1
   },
   "cdn8.live247stream.com": {
-    "last_scanned": "2026-01-03T16:27:00+00:00",
+    "last_scanned": "2026-02-19T01:03:38+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3529,6 +3534,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "iptvtree.net": {
+    "last_scanned": "2026-03-05T19:44:24+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "iqra.tv": {
     "last_scanned": "2026-02-17T01:00:40+00:00",
     "malicious": 6,
@@ -4034,6 +4044,11 @@
     "malicious": 2,
     "suspicious": 1
   },
+  "mkstream.servehttp.com": {
+    "last_scanned": "2026-03-05T19:45:54+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "mmn.mypsx.net": {
     "last_scanned": "2026-02-18T17:36:08+00:00",
     "malicious": 1,
@@ -4200,7 +4215,7 @@
     "suspicious": 0
   },
   "oxolive.com": {
-    "last_scanned": "2025-12-08T03:23:21+00:00",
+    "last_scanned": "2026-03-03T06:56:37+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4375,7 +4390,7 @@
     "suspicious": 1
   },
   "proxy.nettv.fun": {
-    "last_scanned": "2026-02-02T02:34:52+00:00",
+    "last_scanned": "2026-03-06T03:11:04+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5320,8 +5335,8 @@
     "suspicious": 2
   },
   "stream.nasatv.com.mk": {
-    "last_scanned": "2026-02-01T10:22:58+00:00",
-    "malicious": 7,
+    "last_scanned": "2026-03-05T19:44:14+00:00",
+    "malicious": 8,
     "suspicious": 0
   },
   "stream.rsgmedia.ba": {
@@ -5535,7 +5550,7 @@
     "suspicious": 0
   },
   "t.me": {
-    "last_scanned": "2026-01-06T00:59:20+00:00",
+    "last_scanned": "2026-03-05T17:41:37+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5655,8 +5670,8 @@
     "suspicious": 0
   },
   "tv.bdiptv.store": {
-    "last_scanned": "2026-01-06T00:59:21+00:00",
-    "malicious": 12,
+    "last_scanned": "2026-02-20T06:40:16+00:00",
+    "malicious": 9,
     "suspicious": 0
   },
   "tv.cootel.com.kh": {
@@ -5715,7 +5730,7 @@
     "suspicious": 0
   },
   "tv.roarzone.info": {
-    "last_scanned": "2025-12-08T01:44:06+00:00",
+    "last_scanned": "2026-02-20T05:40:24+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5916,6 +5931,11 @@
   },
   "vse2-na-all8.secdn.net": {
     "last_scanned": "2026-02-15T07:00:14+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "vse2-na-all80.secdn.net": {
+    "last_scanned": "2026-03-05T19:44:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
