@@ -200,7 +200,7 @@
     "suspicious": 0
   },
   "103.229.254.25": {
-    "last_scanned": "2026-02-04T05:11:46+00:00",
+    "last_scanned": "2026-02-15T07:03:35+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -401,6 +401,11 @@
   },
   "125.209.88.166:45793": {
     "last_scanned": "2025-10-31T16:40:35.667238+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "125hvt.ddns.net": {
+    "last_scanned": "2026-03-06T04:10:41+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -788,6 +793,11 @@
     "last_scanned": "2025-11-01T02:39:42.469391+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "190.242.59.52": {
+    "last_scanned": "2026-03-06T07:10:15+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "190.60.33.245:4002": {
     "last_scanned": "2025-12-11T01:46:07+00:00",
@@ -5976,11 +5986,6 @@
   },
   "web.applelive.in": {
     "last_scanned": "2026-01-25T13:32:57+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "web.fredflix.fun": {
-    "last_scanned": "2026-02-02T02:33:54+00:00",
     "malicious": 1,
     "suspicious": 0
   },
