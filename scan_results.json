@@ -149,6 +149,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "103.166.152.22": {
+    "last_scanned": "2026-02-10T13:22:32+00:00",
+    "malicious": 1,
+    "suspicious": 5
+  },
   "103.166.152.22:8080": {
     "last_scanned": "2025-11-27T01:39:20+00:00",
     "malicious": 3,
