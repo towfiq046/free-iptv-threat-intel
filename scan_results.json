@@ -4254,6 +4254,11 @@
     "malicious": 9,
     "suspicious": 1
   },
+  "panel.dattalive.com": {
+    "last_scanned": "2026-03-07T07:01:08+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "papagal.shop": {
     "last_scanned": "2026-02-26T03:56:45+00:00",
     "malicious": 1,
