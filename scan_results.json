@@ -3409,11 +3409,6 @@
     "malicious": 9,
     "suspicious": 0
   },
-  "hardcoremedia.xyz": {
-    "last_scanned": "2025-11-03T03:04:50.331541+00:00",
-    "malicious": 1,
-    "suspicious": 2
-  },
   "hd.fcnonline.xyz": {
     "last_scanned": "2026-02-23T13:19:27+00:00",
     "malicious": 1,
@@ -4360,7 +4355,7 @@
     "suspicious": 1
   },
   "playztv-apps.pages.dev": {
-    "last_scanned": "2026-02-05T08:50:22+00:00",
+    "last_scanned": "2026-03-07T13:11:24+00:00",
     "malicious": 1,
     "suspicious": 0
   },
