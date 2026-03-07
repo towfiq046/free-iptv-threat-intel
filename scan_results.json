@@ -734,11 +734,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "185.188.188.237": {
-    "last_scanned": "2026-02-04T08:49:51+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "185.188.188.237:5000": {
     "last_scanned": "2025-11-03T03:08:14.342730+00:00",
     "malicious": 1,
@@ -2389,6 +2384,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "api.watchfooty.st": {
+    "last_scanned": "2026-03-07T02:49:03+00:00",
+    "malicious": 12,
+    "suspicious": 1
+  },
   "apkip.tv": {
     "last_scanned": "2026-01-07T00:59:25+00:00",
     "malicious": 1,
@@ -3385,7 +3385,7 @@
     "suspicious": 0
   },
   "gooo.blog": {
-    "last_scanned": "2026-02-04T05:11:45+00:00",
+    "last_scanned": "2026-03-06T13:23:59+00:00",
     "malicious": 1,
     "suspicious": 1
   },
@@ -6212,6 +6212,11 @@
   "www.usbdjournal24.com": {
     "last_scanned": "2026-02-18T04:05:56+00:00",
     "malicious": 2,
+    "suspicious": 0
+  },
+  "www.youtube.com": {
+    "last_scanned": "2026-02-20T08:05:01+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "www23.estrenosdoramas.net": {
