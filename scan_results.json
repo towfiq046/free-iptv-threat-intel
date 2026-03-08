@@ -3124,6 +3124,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "dl.dropbox.com": {
+    "last_scanned": "2026-03-07T13:12:49+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "dl.dropboxusercontent.com": {
     "last_scanned": "2026-02-18T04:48:27+00:00",
     "malicious": 6,
@@ -5435,8 +5440,8 @@
     "suspicious": 0
   },
   "streamhub.pro": {
-    "last_scanned": "2026-01-19T09:31:49+00:00",
-    "malicious": 9,
+    "last_scanned": "2026-03-08T03:21:56+00:00",
+    "malicious": 13,
     "suspicious": 1
   },
   "streaming.astrakhan.ru": {
@@ -6115,7 +6120,7 @@
     "suspicious": 0
   },
   "www.douyin-cdn.dns-dynamic.net": {
-    "last_scanned": "2026-02-06T02:29:24+00:00",
+    "last_scanned": "2026-03-08T16:46:23+00:00",
     "malicious": 1,
     "suspicious": 1
   },
