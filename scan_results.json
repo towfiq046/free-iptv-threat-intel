@@ -1070,7 +1070,7 @@
     "suspicious": 0
   },
   "2ebf-117-255-91-151.ngrok-free.app": {
-    "last_scanned": "2026-02-07T02:23:18+00:00",
+    "last_scanned": "2026-02-18T04:05:42+00:00",
     "malicious": 1,
     "suspicious": 1
   },
@@ -2965,9 +2965,9 @@
     "suspicious": 1
   },
   "d2.merichunidya.com": {
-    "last_scanned": "2026-02-07T06:09:29+00:00",
+    "last_scanned": "2026-03-09T09:03:21+00:00",
     "malicious": 5,
-    "suspicious": 1
+    "suspicious": 0
   },
   "d2.merichunidya.com:1686": {
     "last_scanned": "2025-11-28T03:12:39+00:00",
