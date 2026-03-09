@@ -5039,6 +5039,11 @@
     "malicious": 3,
     "suspicious": 1
   },
+  "smarthard.click": {
+    "last_scanned": "2026-03-09T03:19:06+00:00",
+    "malicious": 2,
+    "suspicious": 4
+  },
   "sojg.amberwels.sbs": {
     "last_scanned": "2025-11-02T04:12:58.302061+00:00",
     "malicious": 1,
