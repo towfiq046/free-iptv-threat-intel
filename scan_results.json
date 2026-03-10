@@ -4424,6 +4424,11 @@
     "malicious": 2,
     "suspicious": 0
   },
+  "pullsgp.yyzb456.top": {
+    "last_scanned": "2026-02-15T18:18:13+00:00",
+    "malicious": 2,
+    "suspicious": 1
+  },
   "radio-online.my": {
     "last_scanned": "2025-12-10T01:45:35+00:00",
     "malicious": 1,
@@ -5915,7 +5920,7 @@
     "suspicious": 0
   },
   "vodzong.mjunoon.tv": {
-    "last_scanned": "2026-02-08T05:26:11+00:00",
+    "last_scanned": "2026-02-20T06:40:12+00:00",
     "malicious": 1,
     "suspicious": 0
   },
