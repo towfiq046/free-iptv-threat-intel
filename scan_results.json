@@ -4119,6 +4119,11 @@
     "malicious": 1,
     "suspicious": 2
   },
+  "mytv.dothome.co.kr": {
+    "last_scanned": "2026-03-11T02:51:57+00:00",
+    "malicious": 1,
+    "suspicious": 1
+  },
   "n1.atntv.cc": {
     "last_scanned": "2026-02-20T08:06:07+00:00",
     "malicious": 1,
