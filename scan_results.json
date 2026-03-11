@@ -2680,7 +2680,7 @@
     "suspicious": 0
   },
   "cdn1.discoveryftp.net": {
-    "last_scanned": "2026-02-09T05:38:39+00:00",
+    "last_scanned": "2026-02-21T07:54:48+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3030,9 +3030,9 @@
     "suspicious": 1
   },
   "d9.merichunidya.com": {
-    "last_scanned": "2026-02-09T02:34:37+00:00",
+    "last_scanned": "2026-03-11T02:52:08+00:00",
     "malicious": 5,
-    "suspicious": 1
+    "suspicious": 0
   },
   "d9.merichunidya.com:1686": {
     "last_scanned": "2025-11-28T01:38:50+00:00",
@@ -3905,7 +3905,7 @@
     "suspicious": 0
   },
   "lovtv.ott-king.top": {
-    "last_scanned": "2026-02-09T02:35:09+00:00",
+    "last_scanned": "2026-03-11T13:39:40+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5703,6 +5703,11 @@
     "last_scanned": "2025-12-26T03:26:00+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "tv.banglaboxtv.top": {
+    "last_scanned": "2026-03-11T13:38:40+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "tv.bdiptv.store": {
     "last_scanned": "2026-02-20T06:40:16+00:00",
