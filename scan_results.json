@@ -200,7 +200,7 @@
     "suspicious": 0
   },
   "103.225.94.27": {
-    "last_scanned": "2026-02-07T06:29:54+00:00",
+    "last_scanned": "2026-03-09T17:10:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3500,8 +3500,8 @@
     "suspicious": 0
   },
   "ilovetoplay.xyz": {
-    "last_scanned": "2026-02-10T00:36:36+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-12T03:14:27+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "images.moviebuff.com": {
@@ -6245,7 +6245,7 @@
     "suspicious": 0
   },
   "xtv.ooo": {
-    "last_scanned": "2026-02-10T02:43:33+00:00",
+    "last_scanned": "2026-02-14T05:10:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
