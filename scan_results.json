@@ -2560,7 +2560,7 @@
     "suspicious": 0
   },
   "bongoflixbd.top": {
-    "last_scanned": "2026-02-07T02:23:31+00:00",
+    "last_scanned": "2026-02-11T08:56:02+00:00",
     "malicious": 10,
     "suspicious": 0
   },
@@ -2975,7 +2975,7 @@
     "suspicious": 1
   },
   "d3.merichunidya.com": {
-    "last_scanned": "2026-02-10T05:40:45+00:00",
+    "last_scanned": "2026-02-17T05:46:27+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5325,7 +5325,7 @@
     "suspicious": 0
   },
   "stmv1.srvif.com": {
-    "last_scanned": "2026-02-10T05:39:15+00:00",
+    "last_scanned": "2026-02-20T22:15:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5961,6 +5961,11 @@
   },
   "vse2-eu-all73.secdn.net": {
     "last_scanned": "2026-03-02T09:54:21+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "vse2-na-all19.secdn.net": {
+    "last_scanned": "2026-03-12T05:28:07+00:00",
     "malicious": 1,
     "suspicious": 0
   },
