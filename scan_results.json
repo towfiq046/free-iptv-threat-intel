@@ -2555,8 +2555,8 @@
     "suspicious": 0
   },
   "bongoflixbd.top": {
-    "last_scanned": "2026-02-11T08:56:02+00:00",
-    "malicious": 10,
+    "last_scanned": "2026-03-11T02:51:55+00:00",
+    "malicious": 12,
     "suspicious": 0
   },
   "boxviptv.net:25461": {
@@ -3230,7 +3230,7 @@
     "suspicious": 0
   },
   "epg.112114.xyz": {
-    "last_scanned": "2026-02-11T02:41:09+00:00",
+    "last_scanned": "2026-02-16T11:35:17+00:00",
     "malicious": 3,
     "suspicious": 3
   },
