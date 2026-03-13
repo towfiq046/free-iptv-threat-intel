@@ -414,6 +414,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "127.0.0.1": {
+    "last_scanned": "2026-03-13T09:02:23+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "128.199.184.111": {
     "last_scanned": "2026-03-01T05:19:13+00:00",
     "malicious": 1,
