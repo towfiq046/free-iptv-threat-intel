@@ -4504,6 +4504,11 @@
     "malicious": 3,
     "suspicious": 2
   },
+  "rolextv.xyz": {
+    "last_scanned": "2026-03-13T09:01:37+00:00",
+    "malicious": 1,
+    "suspicious": 2
+  },
   "ronnichowdhury.com": {
     "last_scanned": "2026-02-24T22:59:35+00:00",
     "malicious": 1,
@@ -5745,7 +5750,7 @@
     "suspicious": 0
   },
   "tv.dugdugilive.com": {
-    "last_scanned": "2026-02-11T05:29:22+00:00",
+    "last_scanned": "2026-03-13T09:01:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
