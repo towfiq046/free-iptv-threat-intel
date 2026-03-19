@@ -6214,6 +6214,11 @@
     "malicious": 1,
     "suspicious": 1
   },
+  "www.t.me": {
+    "last_scanned": "2026-03-19T18:57:52+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "www.teledunet.com": {
     "last_scanned": "2026-03-02T03:42:07+00:00",
     "malicious": 1,
