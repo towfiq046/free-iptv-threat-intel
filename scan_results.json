@@ -6285,9 +6285,9 @@
     "suspicious": 0
   },
   "xui.mainserver.cc": {
-    "last_scanned": "2026-01-20T03:33:38+00:00",
-    "malicious": 6,
-    "suspicious": 0
+    "last_scanned": "2026-03-26T16:11:27+00:00",
+    "malicious": 11,
+    "suspicious": 1
   },
   "yahoo2.global.transmit.live": {
     "last_scanned": "2025-11-23T02:50:04+00:00",
