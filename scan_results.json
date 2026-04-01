@@ -4534,11 +4534,6 @@
     "malicious": 1,
     "suspicious": 2
   },
-  "ronnichowdhury.com": {
-    "last_scanned": "2026-02-24T22:59:35+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "royakids.tv": {
     "last_scanned": "2026-01-10T00:56:48+00:00",
     "malicious": 1,
@@ -5488,6 +5483,11 @@
     "last_scanned": "2026-01-04T05:20:45+00:00",
     "malicious": 2,
     "suspicious": 0
+  },
+  "streaming.radiomahananda.fm": {
+    "last_scanned": "2026-04-01T09:50:56+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "streamingengine.rtvplus.tv": {
     "last_scanned": "2026-03-01T21:26:17+00:00",
