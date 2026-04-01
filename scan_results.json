@@ -535,7 +535,7 @@
     "suspicious": 0
   },
   "151.236.247.171": {
-    "last_scanned": "2026-02-21T00:56:18+00:00",
+    "last_scanned": "2026-04-01T09:51:22+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2350,7 +2350,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-17T04:04:45+00:00",
+    "last_scanned": "2026-04-01T09:51:15+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4240,8 +4240,8 @@
     "suspicious": 0
   },
   "origin5.mediacdn.ru": {
-    "last_scanned": "2026-02-17T04:46:55+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-16T10:29:21+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "osir.mediacdn.ru": {
@@ -5820,7 +5820,7 @@
     "suspicious": 0
   },
   "tvassets.roarzone.info": {
-    "last_scanned": "2026-02-10T05:39:13+00:00",
+    "last_scanned": "2026-03-13T20:56:00+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5861,11 +5861,6 @@
   },
   "tvspas.mediacdn.ru": {
     "last_scanned": "2026-02-17T17:35:09+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "tvsw2-hls.secdn.net": {
-    "last_scanned": "2026-02-21T04:23:51+00:00",
     "malicious": 1,
     "suspicious": 0
   },
