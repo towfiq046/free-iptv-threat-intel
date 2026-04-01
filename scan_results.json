@@ -1110,7 +1110,7 @@
     "suspicious": 1
   },
   "38.64.72.148": {
-    "last_scanned": "2026-02-19T06:45:34+00:00",
+    "last_scanned": "2026-03-04T04:04:39+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3485,7 +3485,7 @@
     "suspicious": 0
   },
   "hz1.teleport.cc": {
-    "last_scanned": "2026-02-24T23:49:30+00:00",
+    "last_scanned": "2026-03-17T19:54:10+00:00",
     "malicious": 1,
     "suspicious": 0
   },
