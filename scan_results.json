@@ -104,11 +104,6 @@
     "malicious": 1,
     "suspicious": 1
   },
-  "103.124.251.164": {
-    "last_scanned": "2026-02-18T11:30:14+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "103.124.251.164:28015": {
     "last_scanned": "2026-01-07T04:01:36+00:00",
     "malicious": 1,
@@ -130,7 +125,7 @@
     "suspicious": 0
   },
   "103.151.60.204": {
-    "last_scanned": "2026-02-25T06:36:29+00:00",
+    "last_scanned": "2026-04-01T14:09:39+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -349,11 +344,6 @@
     "malicious": 3,
     "suspicious": 1
   },
-  "118.179.219.244": {
-    "last_scanned": "2026-02-20T00:59:01+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "118.179.219.244:8000": {
     "last_scanned": "2026-01-04T04:32:56+00:00",
     "malicious": 1,
@@ -425,7 +415,7 @@
     "suspicious": 0
   },
   "128.199.184.111": {
-    "last_scanned": "2026-03-01T05:19:13+00:00",
+    "last_scanned": "2026-04-01T14:10:36+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -469,6 +459,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "138.68.138.119": {
+    "last_scanned": "2026-04-01T14:11:04+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "138.68.138.119:8080": {
     "last_scanned": "2025-12-29T03:50:46+00:00",
     "malicious": 1,
@@ -485,12 +480,17 @@
     "suspicious": 0
   },
   "139.59.86.99": {
-    "last_scanned": "2026-02-23T11:13:50+00:00",
+    "last_scanned": "2026-04-01T14:09:37+00:00",
     "malicious": 1,
     "suspicious": 0
   },
   "139.59.86.99:12496": {
     "last_scanned": "2026-01-01T03:55:01+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "14.102.123.50": {
+    "last_scanned": "2026-04-01T14:09:38+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -850,7 +850,7 @@
     "suspicious": 0
   },
   "195.189.60.31": {
-    "last_scanned": "2026-02-25T03:58:39+00:00",
+    "last_scanned": "2026-04-01T14:10:41+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1025,7 +1025,7 @@
     "suspicious": 0
   },
   "210.4.72.204": {
-    "last_scanned": "2026-02-21T00:56:36+00:00",
+    "last_scanned": "2026-04-01T14:10:03+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2079,11 +2079,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "akashgo-fredflix-pranto.streambuzz.store": {
-    "last_scanned": "2026-02-17T06:43:27+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "albuk.dyndns.tv": {
     "last_scanned": "2026-02-23T10:02:31+00:00",
     "malicious": 1,
@@ -2255,7 +2250,7 @@
     "suspicious": 0
   },
   "amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-20T04:00:27+00:00",
+    "last_scanned": "2026-04-01T14:10:02+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2539,11 +2534,6 @@
     "malicious": 2,
     "suspicious": 0
   },
-  "bdlivestreaming.xyz": {
-    "last_scanned": "2026-02-17T05:45:40+00:00",
-    "malicious": 1,
-    "suspicious": 2
-  },
   "bdmusicboss.shop": {
     "last_scanned": "2026-01-21T02:02:36+00:00",
     "malicious": 1,
@@ -2645,7 +2635,7 @@
     "suspicious": 0
   },
   "cdn-01.bonus-tv.ru": {
-    "last_scanned": "2026-02-21T04:24:13+00:00",
+    "last_scanned": "2026-04-01T14:09:52+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2900,13 +2890,8 @@
     "suspicious": 1
   },
   "criccoder.pages.dev": {
-    "last_scanned": "2026-02-17T01:01:21+00:00",
-    "malicious": 2,
-    "suspicious": 0
-  },
-  "crichd.filofilmes.art": {
-    "last_scanned": "2026-02-18T17:36:10+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T14:09:29+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "crtvg-america.flumotion.cloud": {
@@ -3051,11 +3036,6 @@
   },
   "daffodil.serverbandel.sbs": {
     "last_scanned": "2026-03-06T04:11:10+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "ddy6new.iosplayer.ru": {
-    "last_scanned": "2026-02-24T19:10:47+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3454,6 +3434,11 @@
     "malicious": 2,
     "suspicious": 0
   },
+  "home-playtv.com": {
+    "last_scanned": "2026-04-01T14:10:13+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "htekclub.com": {
     "last_scanned": "2026-01-27T06:32:36+00:00",
     "malicious": 1,
@@ -3820,8 +3805,8 @@
     "suspicious": 0
   },
   "live.matribhumitv.com": {
-    "last_scanned": "2026-03-02T02:26:49+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-01T14:11:06+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "live.mediacdn.ru": {
@@ -3915,7 +3900,7 @@
     "suspicious": 0
   },
   "logowik.com": {
-    "last_scanned": "2026-02-19T05:43:59+00:00",
+    "last_scanned": "2026-04-01T14:10:05+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4041,11 +4026,6 @@
   },
   "mgugaklive.nowcdn.co.kr": {
     "last_scanned": "2026-02-17T01:02:02+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "mhdstream.com": {
-    "last_scanned": "2026-02-21T04:23:17+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4300,8 +4280,8 @@
     "suspicious": 0
   },
   "peoplesradio.fm": {
-    "last_scanned": "2026-02-21T00:56:27+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-01T14:09:53+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "persiana.unaux.com": {
@@ -4311,11 +4291,6 @@
   },
   "piceltaott-elta.cdn.hinet.net": {
     "last_scanned": "2026-03-02T04:51:17+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "pinbal4you.com": {
-    "last_scanned": "2026-03-01T20:32:22+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4445,8 +4420,8 @@
     "suspicious": 0
   },
   "publicnews.com": {
-    "last_scanned": "2026-02-17T06:42:28+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-01T14:10:31+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "pullsgp.yyzb456.top": {
@@ -4473,6 +4448,11 @@
     "last_scanned": "2026-02-17T04:45:38+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "radiomahananda.com": {
+    "last_scanned": "2026-04-01T14:10:22+00:00",
+    "malicious": 2,
+    "suspicious": 2
   },
   "radios.crabdance.com:8002": {
     "last_scanned": "2025-12-01T04:52:03+00:00",
@@ -6170,7 +6150,7 @@
     "suspicious": 0
   },
   "www.epicon.in": {
-    "last_scanned": "2026-02-18T04:48:08+00:00",
+    "last_scanned": "2026-04-01T14:10:25+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6255,8 +6235,8 @@
     "suspicious": 0
   },
   "www.usbdjournal24.com": {
-    "last_scanned": "2026-02-18T04:05:56+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-01T14:10:46+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "www.youtube.com": {
