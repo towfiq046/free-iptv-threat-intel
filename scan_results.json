@@ -720,8 +720,8 @@
     "suspicious": 0
   },
   "183.237.95.108": {
-    "last_scanned": "2026-02-18T04:05:56+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T14:06:23+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "183.237.95.108:9901": {
@@ -4045,7 +4045,7 @@
     "suspicious": 0
   },
   "mini.allinonereborn.online": {
-    "last_scanned": "2026-02-20T08:04:36+00:00",
+    "last_scanned": "2026-04-01T14:06:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5236,11 +5236,6 @@
   },
   "ss5.domint.net:3180": {
     "last_scanned": "2025-12-23T01:46:26+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "ss9.domint.net": {
-    "last_scanned": "2026-02-20T00:58:02+00:00",
     "malicious": 1,
     "suspicious": 0
   },
