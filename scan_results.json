@@ -929,6 +929,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "198.195.239.50": {
+    "last_scanned": "2026-04-02T07:44:53+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "198.27.83.207": {
     "last_scanned": "2026-03-18T03:31:22+00:00",
     "malicious": 1,
@@ -5300,7 +5305,7 @@
     "suspicious": 0
   },
   "starshare.org": {
-    "last_scanned": "2026-03-03T04:50:29+00:00",
+    "last_scanned": "2026-04-01T19:34:29+00:00",
     "malicious": 1,
     "suspicious": 0
   },
