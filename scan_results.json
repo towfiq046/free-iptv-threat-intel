@@ -220,8 +220,8 @@
     "suspicious": 0
   },
   "103.4.145.50": {
-    "last_scanned": "2026-03-03T01:20:26+00:00",
-    "malicious": 13,
+    "last_scanned": "2026-03-06T12:25:46+00:00",
+    "malicious": 12,
     "suspicious": 3
   },
   "103.4.145.50:8000": {
@@ -2195,7 +2195,7 @@
     "suspicious": 0
   },
   "amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-17T06:41:51+00:00",
+    "last_scanned": "2026-04-02T03:27:56+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2455,8 +2455,8 @@
     "suspicious": 0
   },
   "astrasvip.com": {
-    "last_scanned": "2026-02-23T08:19:33+00:00",
-    "malicious": 12,
+    "last_scanned": "2026-03-17T20:01:17+00:00",
+    "malicious": 11,
     "suspicious": 1
   },
   "astrasvip.com:1935": {
@@ -2495,7 +2495,7 @@
     "suspicious": 0
   },
   "balkanmedia.dynu.net": {
-    "last_scanned": "2026-02-24T23:49:29+00:00",
+    "last_scanned": "2026-04-01T09:50:32+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -2725,7 +2725,7 @@
     "suspicious": 0
   },
   "cdn27.live247stream.com": {
-    "last_scanned": "2026-02-18T17:36:07+00:00",
+    "last_scanned": "2026-04-01T17:13:32+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3240,8 +3240,8 @@
     "suspicious": 0
   },
   "eu.live.skyfolk.mk": {
-    "last_scanned": "2026-02-18T06:47:18+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-17T20:27:19+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "evbr.short.gy": {
@@ -3355,7 +3355,7 @@
     "suspicious": 0
   },
   "glasdrine.cutuk.net": {
-    "last_scanned": "2026-02-24T23:49:33+00:00",
+    "last_scanned": "2026-04-01T09:50:48+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3515,7 +3515,7 @@
     "suspicious": 0
   },
   "img.favpng.com": {
-    "last_scanned": "2026-03-01T18:37:46+00:00",
+    "last_scanned": "2026-04-02T03:28:02+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3590,8 +3590,8 @@
     "suspicious": 0
   },
   "itvusabox-hls-01.dgo-nyc3.itvusa.tv": {
-    "last_scanned": "2026-02-17T01:00:52+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T17:13:18+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "jenny.torontocast.com": {
@@ -4015,7 +4015,7 @@
     "suspicious": 0
   },
   "mediaworldwide-in.mwpsites-a.net": {
-    "last_scanned": "2026-02-17T01:00:02+00:00",
+    "last_scanned": "2026-04-02T03:29:33+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5430,8 +5430,8 @@
     "suspicious": 0
   },
   "stream717.duckdns.org": {
-    "last_scanned": "2026-02-17T06:43:45+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T14:07:12+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "streambtw.live": {
@@ -5585,8 +5585,8 @@
     "suspicious": 1
   },
   "synclosdragos1.syncsolutions.es": {
-    "last_scanned": "2026-02-18T06:47:07+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-17T19:58:46+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "synclosdragos1.syncsolutions.es:8008": {
@@ -5745,8 +5745,8 @@
     "suspicious": 1
   },
   "tv.digitalview.live": {
-    "last_scanned": "2026-02-23T08:18:56+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T09:50:05+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "tv.digitalview.live:8080": {
@@ -6024,11 +6024,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "webtv.pugliaservice.it": {
-    "last_scanned": "2026-02-25T02:40:58+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "webtv.pugliaservice.it:1936": {
     "last_scanned": "2026-01-06T00:57:59+00:00",
     "malicious": 1,
@@ -6280,7 +6275,7 @@
     "suspicious": 0
   },
   "zeerakmedia.com": {
-    "last_scanned": "2026-02-17T08:06:59+00:00",
+    "last_scanned": "2026-04-01T14:06:15+00:00",
     "malicious": 1,
     "suspicious": 0
   },
