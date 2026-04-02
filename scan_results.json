@@ -2470,8 +2470,8 @@
     "suspicious": 2
   },
   "authxplus-2.xyz": {
-    "last_scanned": "2026-02-25T02:41:12+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T19:34:39+00:00",
+    "malicious": 2,
     "suspicious": 2
   },
   "awtv.nuvemplay.live": {
@@ -2665,7 +2665,7 @@
     "suspicious": 0
   },
   "cdn.livestreambd.com": {
-    "last_scanned": "2026-02-18T06:47:46+00:00",
+    "last_scanned": "2026-04-01T19:34:47+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2750,7 +2750,7 @@
     "suspicious": 2
   },
   "cdn6.aptoide.com": {
-    "last_scanned": "2026-02-19T01:02:10+00:00",
+    "last_scanned": "2026-04-01T14:09:40+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5294,6 +5294,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "starshare.org": {
+    "last_scanned": "2026-03-03T04:50:29+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "starsportshindiii.pages.dev": {
     "last_scanned": "2026-02-17T04:03:32+00:00",
     "malicious": 1,
@@ -6005,7 +6010,7 @@
     "suspicious": 0
   },
   "wapka-cdn.zuna.id": {
-    "last_scanned": "2026-02-18T01:01:51+00:00",
+    "last_scanned": "2026-04-01T14:09:39+00:00",
     "malicious": 2,
     "suspicious": 0
   },
