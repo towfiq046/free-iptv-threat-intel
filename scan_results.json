@@ -445,7 +445,7 @@
     "suspicious": 0
   },
   "138.36.24.8": {
-    "last_scanned": "2026-02-19T06:44:50+00:00",
+    "last_scanned": "2026-04-01T09:51:36+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3311,11 +3311,6 @@
   },
   "foxhindi.pages.dev": {
     "last_scanned": "2026-02-17T08:07:20+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "foxstream.pages.dev": {
-    "last_scanned": "2026-02-18T09:34:49+00:00",
     "malicious": 1,
     "suspicious": 0
   },
