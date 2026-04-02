@@ -384,11 +384,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "123.140.197.22": {
-    "last_scanned": "2026-02-17T05:46:21+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "123.146.162.24:8013": {
     "last_scanned": "2025-11-04T06:33:46.684050+00:00",
     "malicious": 1,
@@ -432,11 +427,6 @@
   "12channel.bonus-tv.ru": {
     "last_scanned": "2026-02-18T04:49:30+00:00",
     "malicious": 2,
-    "suspicious": 0
-  },
-  "131.221.41.94": {
-    "last_scanned": "2026-02-17T05:45:40+00:00",
-    "malicious": 1,
     "suspicious": 0
   },
   "132544.edgevideo.ru": {
@@ -2220,7 +2210,7 @@
     "suspicious": 0
   },
   "amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-20T06:39:57+00:00",
+    "last_scanned": "2026-04-02T05:51:10+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2320,7 +2310,7 @@
     "suspicious": 0
   },
   "amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-18T01:01:47+00:00",
+    "last_scanned": "2026-04-01T09:49:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2725,7 +2715,7 @@
     "suspicious": 0
   },
   "cdn2.live247stream.com": {
-    "last_scanned": "2026-02-17T05:45:42+00:00",
+    "last_scanned": "2026-04-01T17:12:23+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2785,7 +2775,7 @@
     "suspicious": 1
   },
   "cdn8.live247stream.com": {
-    "last_scanned": "2026-02-19T01:03:38+00:00",
+    "last_scanned": "2026-04-02T05:51:27+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3175,7 +3165,7 @@
     "suspicious": 0
   },
   "dtvstreaming.hyundaihmall.com": {
-    "last_scanned": "2026-02-19T05:46:43+00:00",
+    "last_scanned": "2026-04-02T05:50:40+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5905,8 +5895,8 @@
     "suspicious": 0
   },
   "video.govoritmoskva.ru": {
-    "last_scanned": "2026-02-18T01:02:11+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T21:03:37+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "video.xtrematv.com": {
@@ -6095,7 +6085,7 @@
     "suspicious": 0
   },
   "www.cablelink.com.ph": {
-    "last_scanned": "2026-02-20T06:39:32+00:00",
+    "last_scanned": "2026-04-02T05:51:17+00:00",
     "malicious": 1,
     "suspicious": 1
   },
