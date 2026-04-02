@@ -769,6 +769,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "188.237.212.16": {
+    "last_scanned": "2026-04-02T09:16:03+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "189.51.193.70": {
     "last_scanned": "2026-02-24T19:10:49+00:00",
     "malicious": 1,
@@ -941,11 +946,6 @@
   },
   "200.113.4.75:7210": {
     "last_scanned": "2025-11-01T05:32:21.633151+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "200.115.98.26": {
-    "last_scanned": "2026-02-17T05:46:26+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1280,7 +1280,7 @@
     "suspicious": 0
   },
   "77.68.40.210": {
-    "last_scanned": "2026-02-21T04:22:15+00:00",
+    "last_scanned": "2026-04-01T09:49:48+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1300,8 +1300,8 @@
     "suspicious": 0
   },
   "82.212.74.2": {
-    "last_scanned": "2026-02-20T00:58:03+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-04-02T03:27:47+00:00",
+    "malicious": 5,
     "suspicious": 0
   },
   "82.212.74.2:8000": {
@@ -2255,7 +2255,7 @@
     "suspicious": 0
   },
   "amg02132-amg02132c2-amgplt0016.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-16T11:35:12+00:00",
+    "last_scanned": "2026-04-01T17:12:28+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2595,8 +2595,8 @@
     "suspicious": 0
   },
   "busuioctv.iforward.eu": {
-    "last_scanned": "2026-02-18T04:48:55+00:00",
-    "malicious": 9,
+    "last_scanned": "2026-04-01T21:03:27+00:00",
+    "malicious": 8,
     "suspicious": 0
   },
   "byecableiptvnew3.ddns.net": {
@@ -4415,7 +4415,7 @@
     "suspicious": 2
   },
   "provedores.unsion.tv": {
-    "last_scanned": "2026-02-23T08:19:24+00:00",
+    "last_scanned": "2026-03-17T19:58:47+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4450,8 +4450,8 @@
     "suspicious": 0
   },
   "radiocret.net": {
-    "last_scanned": "2026-03-02T07:02:08+00:00",
-    "malicious": 5,
+    "last_scanned": "2026-03-21T22:33:57+00:00",
+    "malicious": 6,
     "suspicious": 0
   },
   "radiocret.net:8082": {
@@ -4480,8 +4480,8 @@
     "suspicious": 0
   },
   "ramach.ddns.net": {
-    "last_scanned": "2026-02-17T01:00:08+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-30T17:34:41+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "raw.githack.com": {
@@ -5234,11 +5234,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "ss5.domint.net": {
-    "last_scanned": "2026-02-19T04:04:34+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "ss5.domint.net:3034": {
     "last_scanned": "2026-01-05T04:39:43+00:00",
     "malicious": 1,
@@ -5640,7 +5635,7 @@
     "suspicious": 0
   },
   "teleola.ddns.net": {
-    "last_scanned": "2026-02-23T08:17:25+00:00",
+    "last_scanned": "2026-04-02T05:50:13+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5850,7 +5845,7 @@
     "suspicious": 0
   },
   "tvspas.mediacdn.ru": {
-    "last_scanned": "2026-02-17T17:35:09+00:00",
+    "last_scanned": "2026-04-02T03:29:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6120,7 +6115,7 @@
     "suspicious": 0
   },
   "www.discoverpakistan.tv": {
-    "last_scanned": "2026-02-17T04:04:53+00:00",
+    "last_scanned": "2026-04-02T03:28:18+00:00",
     "malicious": 1,
     "suspicious": 0
   },
