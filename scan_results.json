@@ -4,6 +4,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "1.94.31.214": {
+    "last_scanned": "2026-03-13T01:00:37+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "100automoto.tv": {
     "last_scanned": "2026-02-17T04:33:13+00:00",
     "malicious": 7,
@@ -949,6 +954,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "200.125.170.122": {
+    "last_scanned": "2026-03-18T13:31:21+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "200.229.147.142": {
     "last_scanned": "2026-02-02T10:18:36+00:00",
     "malicious": 1,
@@ -1055,7 +1065,7 @@
     "suspicious": 0
   },
   "217.182.77.27": {
-    "last_scanned": "2026-02-17T04:03:29+00:00",
+    "last_scanned": "2026-03-17T20:28:25+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2440,7 +2450,7 @@
     "suspicious": 1
   },
   "arenasportslovakia.ddns.net": {
-    "last_scanned": "2026-02-18T05:45:48+00:00",
+    "last_scanned": "2026-04-01T09:49:46+00:00",
     "malicious": 4,
     "suspicious": 0
   },
@@ -3259,11 +3269,6 @@
     "malicious": 2,
     "suspicious": 0
   },
-  "fast-tailor.3catdirectes.cat": {
-    "last_scanned": "2026-02-18T04:05:39+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "fastream.xyz:8080": {
     "last_scanned": "2025-11-03T03:03:03.975065+00:00",
     "malicious": 3,
@@ -3455,7 +3460,7 @@
     "suspicious": 0
   },
   "hvtraficonew.ddns.net": {
-    "last_scanned": "2026-02-18T04:47:38+00:00",
+    "last_scanned": "2026-03-27T14:23:45+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3530,7 +3535,7 @@
     "suspicious": 1
   },
   "imotv.online": {
-    "last_scanned": "2026-02-18T09:34:07+00:00",
+    "last_scanned": "2026-04-02T05:50:34+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3915,8 +3920,8 @@
     "suspicious": 0
   },
   "lu.wqwqwq.sbs": {
-    "last_scanned": "2026-02-19T04:04:23+00:00",
-    "malicious": 4,
+    "last_scanned": "2026-04-01T17:13:21+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "lukesitturn.com": {
@@ -4550,8 +4555,8 @@
     "suspicious": 0
   },
   "s.id": {
-    "last_scanned": "2026-02-17T05:44:36+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-02T05:50:23+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "s0.lk21static.buzz": {
@@ -4603,11 +4608,6 @@
     "last_scanned": "2026-01-08T04:39:02+00:00",
     "malicious": 1,
     "suspicious": 1
-  },
-  "s3.us-west-2.amazonaws.com": {
-    "last_scanned": "2026-02-20T08:06:24+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "s3ae.closeirmqjunp.sbs": {
     "last_scanned": "2026-01-05T01:03:25+00:00",
@@ -5280,7 +5280,7 @@
     "suspicious": 1
   },
   "stariptv.fun": {
-    "last_scanned": "2026-02-18T01:02:12+00:00",
+    "last_scanned": "2026-04-01T17:14:18+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5851,11 +5851,6 @@
   },
   "tvsw4-hls.secdn.net": {
     "last_scanned": "2025-11-04T09:34:27.774564+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "tvsw5-hls.secdn.net": {
-    "last_scanned": "2026-02-18T04:48:06+00:00",
     "malicious": 1,
     "suspicious": 0
   },
