@@ -4394,6 +4394,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "profamouslife.com": {
+    "last_scanned": "2026-04-02T05:51:38+00:00",
+    "malicious": 1,
+    "suspicious": 1
+  },
   "protokolldns.xyz": {
     "last_scanned": "2026-02-15T01:53:30+00:00",
     "malicious": 3,
