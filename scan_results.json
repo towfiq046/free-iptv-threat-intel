@@ -370,7 +370,7 @@
     "suspicious": 0
   },
   "120.76.248.139": {
-    "last_scanned": "2026-03-03T02:27:54+00:00",
+    "last_scanned": "2026-04-02T17:10:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -639,11 +639,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "179.51.136.19": {
-    "last_scanned": "2026-03-02T04:49:43+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "179.51.136.19:8000": {
     "last_scanned": "2025-12-24T01:44:36+00:00",
     "malicious": 1,
@@ -680,7 +675,7 @@
     "suspicious": 0
   },
   "181.78.12.119": {
-    "last_scanned": "2026-02-21T00:56:33+00:00",
+    "last_scanned": "2026-04-02T03:28:44+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -1110,7 +1105,7 @@
     "suspicious": 0
   },
   "38.250.127.17": {
-    "last_scanned": "2026-02-18T04:07:31+00:00",
+    "last_scanned": "2026-03-17T20:04:20+00:00",
     "malicious": 1,
     "suspicious": 1
   },
@@ -1146,11 +1141,6 @@
   },
   "45.144.165.187:8080": {
     "last_scanned": "2025-11-25T03:03:20+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "45.173.198.59": {
-    "last_scanned": "2026-02-23T08:18:28+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2330,7 +2320,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-20T04:00:44+00:00",
+    "last_scanned": "2026-04-03T05:51:21+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2609,11 +2599,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "canalextremadura-live.flumotion.cloud": {
-    "last_scanned": "2026-02-17T04:04:53+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "canlitvulusal.xyz": {
     "last_scanned": "2026-01-03T03:25:27+00:00",
     "malicious": 2,
@@ -2693,6 +2678,11 @@
     "last_scanned": "2026-04-02T05:49:57+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "cdn1.dtplumber.cfd": {
+    "last_scanned": "2026-04-02T17:11:51+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "cdn1.live-tv.od.ua": {
     "last_scanned": "2026-03-01T19:41:28+00:00",
@@ -2975,7 +2965,7 @@
     "suspicious": 1
   },
   "d3.merichunidya.com": {
-    "last_scanned": "2026-02-17T05:46:27+00:00",
+    "last_scanned": "2026-04-01T09:51:34+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3850,7 +3840,7 @@
     "suspicious": 0
   },
   "livejj.hyundaihmall.com": {
-    "last_scanned": "2026-02-23T08:18:34+00:00",
+    "last_scanned": "2026-04-02T09:16:58+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -3995,7 +3985,7 @@
     "suspicious": 0
   },
   "mgtv.ottiptv.cc": {
-    "last_scanned": "2026-02-19T01:00:56+00:00",
+    "last_scanned": "2026-04-02T17:11:50+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4140,7 +4130,7 @@
     "suspicious": 0
   },
   "nfsnew.newkso.ru": {
-    "last_scanned": "2025-11-04T02:19:23.789654+00:00",
+    "last_scanned": "2026-04-02T03:29:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4185,8 +4175,8 @@
     "suspicious": 1
   },
   "oneplay.iptvperu.tv": {
-    "last_scanned": "2026-03-02T05:33:20+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-17T20:16:20+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "onezoo.net": {
@@ -4275,7 +4265,7 @@
     "suspicious": 0
   },
   "pitaara.tv": {
-    "last_scanned": "2026-02-20T04:01:03+00:00",
+    "last_scanned": "2026-04-02T09:17:37+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4380,8 +4370,8 @@
     "suspicious": 1
   },
   "protokolldns.xyz": {
-    "last_scanned": "2026-02-15T01:53:30+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-03-16T10:36:56+00:00",
+    "malicious": 4,
     "suspicious": 2
   },
   "provedores.unsion.tv": {
@@ -5629,6 +5619,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "testcam.go.ro": {
+    "last_scanned": "2026-04-02T05:50:20+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "thamilaaramtv24-hls.secdn.net": {
     "last_scanned": "2025-12-28T01:56:35+00:00",
     "malicious": 1,
@@ -5829,11 +5824,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "tvsw6-hls.secdn.net": {
-    "last_scanned": "2026-02-18T04:05:52+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "tvsw7-hls.secdn.net": {
     "last_scanned": "2026-02-17T04:45:54+00:00",
     "malicious": 1,
@@ -6025,7 +6015,7 @@
     "suspicious": 0
   },
   "wms60.tecnoxia.com": {
-    "last_scanned": "2026-02-18T01:02:40+00:00",
+    "last_scanned": "2026-04-03T09:11:00+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -6145,7 +6135,7 @@
     "suspicious": 0
   },
   "www.pngmart.com": {
-    "last_scanned": "2026-02-25T02:41:51+00:00",
+    "last_scanned": "2026-04-02T17:11:31+00:00",
     "malicious": 1,
     "suspicious": 0
   },
