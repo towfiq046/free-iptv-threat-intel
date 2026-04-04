@@ -130,7 +130,7 @@
     "suspicious": 0
   },
   "103.15.140.138": {
-    "last_scanned": "2026-02-17T00:59:41+00:00",
+    "last_scanned": "2026-04-03T09:11:38+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -435,8 +435,8 @@
     "suspicious": 0
   },
   "12channel.bonus-tv.ru": {
-    "last_scanned": "2026-02-18T04:49:30+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-01T14:05:34+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "132544.edgevideo.ru": {
@@ -815,7 +815,7 @@
     "suspicious": 2
   },
   "190.60.56.41": {
-    "last_scanned": "2026-03-02T04:50:47+00:00",
+    "last_scanned": "2026-04-04T03:18:24+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -836,6 +836,11 @@
   },
   "190.90.22.42:5280": {
     "last_scanned": "2025-12-05T06:34:08+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "192.144.82.200": {
+    "last_scanned": "2026-04-04T09:00:40+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1236,6 +1241,11 @@
   },
   "61.162.225.122:8181": {
     "last_scanned": "2026-01-04T06:18:24+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "62.210.211.188": {
+    "last_scanned": "2026-04-02T05:49:59+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1945,7 +1955,7 @@
     "suspicious": 0
   },
   "88.218.242.237": {
-    "last_scanned": "2026-02-19T04:06:46+00:00",
+    "last_scanned": "2026-04-01T09:50:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2690,18 +2700,13 @@
     "suspicious": 1
   },
   "cdn1.live-tv.od.ua": {
-    "last_scanned": "2026-03-01T19:41:28+00:00",
+    "last_scanned": "2026-04-03T17:10:18+00:00",
     "malicious": 1,
     "suspicious": 0
   },
   "cdn1.turboviplay.cc": {
     "last_scanned": "2025-10-31T16:40:57.413472+00:00",
     "malicious": 2,
-    "suspicious": 0
-  },
-  "cdn11.live247stream.com": {
-    "last_scanned": "2026-02-18T04:49:44+00:00",
-    "malicious": 1,
     "suspicious": 0
   },
   "cdn11.trrfiles.cfd": {
@@ -3090,8 +3095,8 @@
     "suspicious": 0
   },
   "directo.tvferrol.es": {
-    "last_scanned": "2026-02-20T04:30:51+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-03T05:52:17+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "directplaylive.sbs": {
@@ -3720,7 +3725,7 @@
     "suspicious": 0
   },
   "live.dameijunlian.cn": {
-    "last_scanned": "2026-02-17T05:44:35+00:00",
+    "last_scanned": "2026-04-03T17:11:32+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -4309,6 +4314,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "play.google.com": {
+    "last_scanned": "2026-04-02T14:01:34+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "play.upns.xyz": {
     "last_scanned": "2025-11-03T09:57:26.309665+00:00",
     "malicious": 1,
@@ -4430,7 +4440,7 @@
     "suspicious": 0
   },
   "radiojnd.cdn.hostin.cc": {
-    "last_scanned": "2026-02-17T04:45:38+00:00",
+    "last_scanned": "2026-04-01T21:02:09+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5795,7 +5805,7 @@
     "suspicious": 0
   },
   "tvmaria.ph": {
-    "last_scanned": "2026-02-19T01:02:00+00:00",
+    "last_scanned": "2026-04-01T21:02:09+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5903,6 +5913,11 @@
     "last_scanned": "2026-01-18T14:32:41+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "vipketseyket.top": {
+    "last_scanned": "2026-04-02T05:51:33+00:00",
+    "malicious": 3,
+    "suspicious": 1
   },
   "visitmy.collegefan.org": {
     "last_scanned": "2026-02-03T02:31:56+00:00",
@@ -6115,7 +6130,7 @@
     "suspicious": 0
   },
   "www.elahmad.com": {
-    "last_scanned": "2026-02-19T06:44:39+00:00",
+    "last_scanned": "2026-04-03T05:50:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
