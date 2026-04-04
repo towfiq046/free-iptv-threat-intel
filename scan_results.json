@@ -344,6 +344,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "118.107.85.5": {
+    "last_scanned": "2026-04-04T03:20:31+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "118.107.85.5:1935": {
     "last_scanned": "2026-01-03T21:10:54+00:00",
     "malicious": 1,
@@ -945,7 +950,7 @@
     "suspicious": 0
   },
   "200.12.41.194": {
-    "last_scanned": "2026-02-19T05:44:25+00:00",
+    "last_scanned": "2026-04-02T17:11:55+00:00",
     "malicious": 3,
     "suspicious": 1
   },
@@ -966,11 +971,6 @@
   },
   "200.229.147.142:8000": {
     "last_scanned": "2025-11-21T17:01:09+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "200.59.188.3": {
-    "last_scanned": "2026-02-19T04:46:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2080,7 +2080,7 @@
     "suspicious": 0
   },
   "albuk.dyndns.tv": {
-    "last_scanned": "2026-02-23T10:02:31+00:00",
+    "last_scanned": "2026-04-02T14:01:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2430,7 +2430,7 @@
     "suspicious": 0
   },
   "archive.org": {
-    "last_scanned": "2026-02-15T07:58:57+00:00",
+    "last_scanned": "2026-04-02T05:50:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2575,7 +2575,7 @@
     "suspicious": 0
   },
   "btn.nowcdn.co.kr": {
-    "last_scanned": "2026-02-20T05:40:12+00:00",
+    "last_scanned": "2026-04-03T03:31:23+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2870,7 +2870,7 @@
     "suspicious": 0
   },
   "connectiktv.ddns.net": {
-    "last_scanned": "2026-03-01T17:24:51+00:00",
+    "last_scanned": "2026-04-01T21:03:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2940,8 +2940,8 @@
     "suspicious": 0
   },
   "d1.merichunidya.com": {
-    "last_scanned": "2026-02-19T04:47:17+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-03T03:30:14+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "d1.merichunidya.com:1686": {
@@ -3100,8 +3100,8 @@
     "suspicious": 0
   },
   "discoverfilm-discoverfilm-1-nl.samsung.wurl.tv": {
-    "last_scanned": "2026-02-17T04:47:16+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-02T03:29:05+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "discoverpakistan.tv": {
@@ -3205,7 +3205,7 @@
     "suspicious": 0
   },
   "ekdilhai.pro": {
-    "last_scanned": "2026-02-18T05:47:48+00:00",
+    "last_scanned": "2026-04-02T09:16:17+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3265,7 +3265,7 @@
     "suspicious": 2
   },
   "feji.us": {
-    "last_scanned": "2026-03-02T05:34:25+00:00",
+    "last_scanned": "2026-04-03T05:51:56+00:00",
     "malicious": 12,
     "suspicious": 1
   },
@@ -3291,6 +3291,11 @@
   },
   "five.04bf112a615942b5.sbs": {
     "last_scanned": "2025-11-02T04:13:57.253159+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "framerusercontent.com": {
+    "last_scanned": "2026-04-04T03:19:10+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4335,7 +4340,7 @@
     "suspicious": 0
   },
   "pomf2.lain.la": {
-    "last_scanned": "2026-02-14T08:39:06+00:00",
+    "last_scanned": "2026-04-02T17:12:09+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4556,11 +4561,6 @@
   },
   "s3-ap-northeast-1.amazonaws.com": {
     "last_scanned": "2026-01-18T11:17:41+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "s3-us-west-2.amazonaws.com": {
-    "last_scanned": "2026-02-18T04:06:18+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5280,7 +5280,7 @@
     "suspicious": 0
   },
   "stitch.teletarget.ru": {
-    "last_scanned": "2026-02-19T06:46:19+00:00",
+    "last_scanned": "2026-04-02T14:02:24+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5295,8 +5295,8 @@
     "suspicious": 0
   },
   "stmv.streamingvip.click": {
-    "last_scanned": "2026-03-02T03:42:53+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-02T14:02:15+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "stmv1.srvif.com": {
@@ -5388,6 +5388,11 @@
     "last_scanned": "2026-02-17T06:42:59+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "stream1.freetv.fun": {
+    "last_scanned": "2026-04-03T03:31:41+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "stream1.stou.ac.th": {
     "last_scanned": "2026-02-19T01:01:23+00:00",
@@ -5745,7 +5750,7 @@
     "suspicious": 0
   },
   "tv.hamdardtv.com": {
-    "last_scanned": "2026-02-17T06:42:23+00:00",
+    "last_scanned": "2026-04-01T14:05:38+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5775,7 +5780,7 @@
     "suspicious": 0
   },
   "tv1.arectv30.sbs": {
-    "last_scanned": "2026-02-18T01:03:24+00:00",
+    "last_scanned": "2026-04-02T20:55:07+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6245,8 +6250,8 @@
     "suspicious": 1
   },
   "yayin.kudustv.com": {
-    "last_scanned": "2026-02-17T04:03:14+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-02T05:50:10+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "zeerakmedia.com": {
