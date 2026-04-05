@@ -335,7 +335,7 @@
     "suspicious": 0
   },
   "117.70.93.210": {
-    "last_scanned": "2026-02-19T09:34:32+00:00",
+    "last_scanned": "2026-04-02T05:51:17+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -370,7 +370,7 @@
     "suspicious": 0
   },
   "119.77.96.184": {
-    "last_scanned": "2026-02-23T17:37:26+00:00",
+    "last_scanned": "2026-04-03T05:52:15+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -385,7 +385,7 @@
     "suspicious": 0
   },
   "122.155.12.107": {
-    "last_scanned": "2026-03-01T18:38:26+00:00",
+    "last_scanned": "2026-04-04T16:55:28+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -623,11 +623,6 @@
     "last_scanned": "2026-02-18T04:05:14+00:00",
     "malicious": 2,
     "suspicious": 1
-  },
-  "178.253.194.105": {
-    "last_scanned": "2026-02-17T04:45:40+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "178.33.239.54": {
     "last_scanned": "2026-02-19T15:36:18+00:00",
@@ -1305,8 +1300,8 @@
     "suspicious": 0
   },
   "82.212.74.98": {
-    "last_scanned": "2026-02-19T15:36:16+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-01T17:12:18+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "82.212.74.98:8000": {
@@ -2059,16 +2054,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "accion.com.ph": {
-    "last_scanned": "2026-02-18T04:48:00+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "accounts.google.com": {
-    "last_scanned": "2026-02-20T06:39:34+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "admin.auto-messenger.ru": {
     "last_scanned": "2026-01-31T02:31:40+00:00",
     "malicious": 1,
@@ -2225,7 +2210,7 @@
     "suspicious": 0
   },
   "amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv": {
-    "last_scanned": "2026-03-02T09:54:06+00:00",
+    "last_scanned": "2026-04-04T03:20:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3154,11 +3139,6 @@
     "malicious": 2,
     "suspicious": 2
   },
-  "drive.google.com": {
-    "last_scanned": "2026-02-21T00:57:55+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "dtvstreaming.hyundaihmall.com": {
     "last_scanned": "2026-04-02T05:50:40+00:00",
     "malicious": 1,
@@ -3250,8 +3230,8 @@
     "suspicious": 0
   },
   "fancode.mafiatv.live": {
-    "last_scanned": "2026-02-17T01:00:44+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-02T17:12:17+00:00",
+    "malicious": 5,
     "suspicious": 0
   },
   "fastream.xyz:8080": {
@@ -3635,7 +3615,7 @@
     "suspicious": 0
   },
   "kbl-stream.movie.af": {
-    "last_scanned": "2026-02-14T05:11:36+00:00",
+    "last_scanned": "2026-04-04T16:54:54+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3955,8 +3935,8 @@
     "suspicious": 0
   },
   "mastershowtv.videovox.pw": {
-    "last_scanned": "2026-02-17T08:07:03+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-03T03:32:11+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "maxbit.link": {
@@ -4000,7 +3980,7 @@
     "suspicious": 0
   },
   "mgugaklive.nowcdn.co.kr": {
-    "last_scanned": "2026-02-17T01:02:02+00:00",
+    "last_scanned": "2026-04-04T03:20:51+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4260,7 +4240,7 @@
     "suspicious": 0
   },
   "pcdn1.discoveryftp.net": {
-    "last_scanned": "2026-02-18T04:05:12+00:00",
+    "last_scanned": "2026-04-03T17:10:09+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4531,6 +4511,11 @@
   },
   "rtmp2.logicwebs.in:1935": {
     "last_scanned": "2026-01-06T06:56:06+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "ru-001.local-honduras-center.sbs": {
+    "last_scanned": "2026-04-04T16:55:36+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5375,8 +5360,8 @@
     "suspicious": 0
   },
   "stream.tiviturk.de": {
-    "last_scanned": "2026-02-17T08:07:46+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-01T14:05:21+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "stream.vstartv.org:3031": {
@@ -5439,6 +5424,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "streaming.goodstream.cyou": {
+    "last_scanned": "2026-04-03T09:11:53+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "streaming.grupocsanetwork.com": {
     "last_scanned": "2026-04-02T03:28:33+00:00",
     "malicious": 3,
@@ -5480,7 +5470,7 @@
     "suspicious": 0
   },
   "streamtv12.ddns.net": {
-    "last_scanned": "2026-02-23T10:02:34+00:00",
+    "last_scanned": "2026-04-01T09:49:44+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5839,11 +5829,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "tvsw7-hls.secdn.net": {
-    "last_scanned": "2026-02-17T04:45:54+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "tvzvezda.bonus-tv.ru": {
     "last_scanned": "2026-04-02T05:51:24+00:00",
     "malicious": 3,
@@ -6170,8 +6155,8 @@
     "suspicious": 0
   },
   "www.sonus.fm": {
-    "last_scanned": "2026-02-18T06:47:06+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-04T09:00:35+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "www.sonus.fm:1935": {
