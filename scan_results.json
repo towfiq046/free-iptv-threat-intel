@@ -1,9 +1,4 @@
 {
-  "1-213-10546-44.b.cdn13.com": {
-    "last_scanned": "2026-02-18T01:02:49+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "1.222.207.80": {
     "last_scanned": "2026-04-01T17:12:32+00:00",
     "malicious": 1,
@@ -100,7 +95,7 @@
     "suspicious": 0
   },
   "103.121.61.218": {
-    "last_scanned": "2026-02-21T03:43:53+00:00",
+    "last_scanned": "2026-04-04T16:55:41+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -200,7 +195,7 @@
     "suspicious": 0
   },
   "103.180.118.5": {
-    "last_scanned": "2026-02-20T04:31:16+00:00",
+    "last_scanned": "2026-04-05T09:02:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -615,8 +610,8 @@
     "suspicious": 0
   },
   "176.67.210.1": {
-    "last_scanned": "2026-02-18T04:05:14+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-06T09:43:36+00:00",
+    "malicious": 6,
     "suspicious": 1
   },
   "178.33.239.54": {
@@ -670,9 +665,9 @@
     "suspicious": 0
   },
   "181.78.109.48": {
-    "last_scanned": "2026-03-01T18:37:54+00:00",
-    "malicious": 1,
-    "suspicious": 0
+    "last_scanned": "2026-04-06T03:55:53+00:00",
+    "malicious": 5,
+    "suspicious": 3
   },
   "181.78.12.119": {
     "last_scanned": "2026-04-02T03:28:44+00:00",
@@ -2330,7 +2325,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-20T05:41:05+00:00",
+    "last_scanned": "2026-04-02T17:11:08+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2510,7 +2505,7 @@
     "suspicious": 0
   },
   "bdiptv.stream": {
-    "last_scanned": "2026-02-17T05:45:02+00:00",
+    "last_scanned": "2026-04-03T09:11:30+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2790,7 +2785,7 @@
     "suspicious": 0
   },
   "cheapmdhal.lol": {
-    "last_scanned": "2026-03-03T02:27:34+00:00",
+    "last_scanned": "2026-04-02T09:16:21+00:00",
     "malicious": 6,
     "suspicious": 0
   },
@@ -3369,6 +3364,11 @@
     "malicious": 1,
     "suspicious": 1
   },
+  "hdhufru.top": {
+    "last_scanned": "2026-04-06T09:44:25+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "hellosky.live:8080": {
     "last_scanned": "2026-01-08T00:58:42+00:00",
     "malicious": 1,
@@ -3510,7 +3510,7 @@
     "suspicious": 0
   },
   "ip-tv.dev": {
-    "last_scanned": "2026-02-16T11:35:25+00:00",
+    "last_scanned": "2026-04-06T09:44:14+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3659,6 +3659,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "links.hdhufru.top": {
+    "last_scanned": "2026-04-06T03:54:42+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "list.iptvcat.com": {
     "last_scanned": "2026-04-03T03:30:22+00:00",
     "malicious": 1,
@@ -3770,8 +3775,8 @@
     "suspicious": 0
   },
   "live.mediacdn.ru": {
-    "last_scanned": "2026-02-18T05:47:18+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-02T03:29:16+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "live.metshop.top": {
@@ -3795,8 +3800,8 @@
     "suspicious": 0
   },
   "live.we2live.in": {
-    "last_scanned": "2026-02-18T06:46:54+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-03T03:31:14+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "live1.indostreamserver.com": {
@@ -3925,13 +3930,8 @@
     "suspicious": 0
   },
   "master.tucableip.com": {
-    "last_scanned": "2026-02-24T23:34:19+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "masterprotv1.com": {
-    "last_scanned": "2026-02-19T04:05:57+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-03-18T13:31:26+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "mastershowtv.videovox.pw": {
@@ -4025,7 +4025,7 @@
     "suspicious": 1
   },
   "mkstream.servehttp.com": {
-    "last_scanned": "2026-03-05T19:45:54+00:00",
+    "last_scanned": "2026-04-06T09:44:19+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4240,7 +4240,7 @@
     "suspicious": 0
   },
   "pbc.furrera.ps": {
-    "last_scanned": "2026-03-03T02:26:26+00:00",
+    "last_scanned": "2026-04-02T14:02:35+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5179,11 +5179,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "ss3.domint.net": {
-    "last_scanned": "2026-02-21T05:29:40+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "ss3.domint.net:3138": {
     "last_scanned": "2026-01-10T00:58:14+00:00",
     "malicious": 1,
@@ -5210,7 +5205,7 @@
     "suspicious": 0
   },
   "ssh101stream.ssh101.com": {
-    "last_scanned": "2026-02-18T05:45:23+00:00",
+    "last_scanned": "2026-04-06T09:44:05+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5325,7 +5320,7 @@
     "suspicious": 0
   },
   "stream.e2is.in": {
-    "last_scanned": "2026-02-18T04:47:54+00:00",
+    "last_scanned": "2026-04-03T03:31:18+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5675,9 +5670,9 @@
     "suspicious": 1
   },
   "tv.arectv29.sbs": {
-    "last_scanned": "2026-02-19T01:03:41+00:00",
+    "last_scanned": "2026-04-06T03:54:32+00:00",
     "malicious": 1,
-    "suspicious": 1
+    "suspicious": 0
   },
   "tv.arectv31.sbs": {
     "last_scanned": "2026-01-07T00:58:49+00:00",
@@ -5970,7 +5965,7 @@
     "suspicious": 0
   },
   "wahyu1ptv.pages.dev": {
-    "last_scanned": "2026-03-02T08:45:47+00:00",
+    "last_scanned": "2026-04-05T03:44:32+00:00",
     "malicious": 1,
     "suspicious": 0
   },
