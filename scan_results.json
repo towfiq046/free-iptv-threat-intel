@@ -325,7 +325,7 @@
     "suspicious": 0
   },
   "116.254.112.74": {
-    "last_scanned": "2026-02-18T11:30:15+00:00",
+    "last_scanned": "2026-04-02T03:28:04+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -435,8 +435,8 @@
     "suspicious": 0
   },
   "132544.edgevideo.ru": {
-    "last_scanned": "2026-02-17T04:47:54+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-05T16:56:02+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "135.125.238.26": {
@@ -475,7 +475,7 @@
     "suspicious": 0
   },
   "139.162.182.79": {
-    "last_scanned": "2026-02-19T06:46:17+00:00",
+    "last_scanned": "2026-04-03T05:51:07+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -690,9 +690,9 @@
     "suspicious": 0
   },
   "181.78.27.128": {
-    "last_scanned": "2026-03-01T18:37:46+00:00",
+    "last_scanned": "2026-04-06T03:55:45+00:00",
     "malicious": 2,
-    "suspicious": 1
+    "suspicious": 2
   },
   "181.78.4.250": {
     "last_scanned": "2026-03-08T03:22:16+00:00",
@@ -751,6 +751,11 @@
   },
   "185.46.40.10": {
     "last_scanned": "2026-04-03T03:30:27+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "185.63.52.103": {
+    "last_scanned": "2026-04-06T03:54:38+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -815,8 +820,8 @@
     "suspicious": 0
   },
   "190.90.22.42": {
-    "last_scanned": "2026-02-20T00:58:39+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-04-04T16:55:20+00:00",
+    "malicious": 5,
     "suspicious": 1
   },
   "190.90.22.42:5280": {
@@ -1005,7 +1010,7 @@
     "suspicious": 1
   },
   "202.62.56.22": {
-    "last_scanned": "2026-02-19T01:01:34+00:00",
+    "last_scanned": "2026-04-06T03:55:14+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1115,7 +1120,7 @@
     "suspicious": 0
   },
   "38.75.136.137": {
-    "last_scanned": "2026-01-28T01:33:29+00:00",
+    "last_scanned": "2026-03-27T21:29:35+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2160,7 +2165,7 @@
     "suspicious": 0
   },
   "amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-19T01:02:47+00:00",
+    "last_scanned": "2026-04-04T03:19:10+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2310,7 +2315,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-19T05:44:33+00:00",
+    "last_scanned": "2026-04-05T16:56:01+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2896,11 +2901,6 @@
   },
   "crtvg-cultural.flumotion.cloud": {
     "last_scanned": "2026-01-05T05:30:47+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "crtvg-europa.flumotion.cloud": {
-    "last_scanned": "2026-02-20T22:15:57+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3655,7 +3655,7 @@
     "suspicious": 0
   },
   "links-macha-official.x10.mx": {
-    "last_scanned": "2026-02-17T01:00:46+00:00",
+    "last_scanned": "2026-04-04T16:56:15+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4335,8 +4335,8 @@
     "suspicious": 0
   },
   "pool.alter-media.hr": {
-    "last_scanned": "2026-02-25T03:59:39+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-02T17:10:38+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "port.yuvraj49.in": {
@@ -5113,11 +5113,6 @@
     "last_scanned": "2025-11-02T05:09:59.585987+00:00",
     "malicious": 1,
     "suspicious": 1
-  },
-  "sramsburg-hls.secdn.net": {
-    "last_scanned": "2026-02-17T08:07:30+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "ss01.tubzde.cc": {
     "last_scanned": "2025-11-03T10:06:01.910148+00:00",
@@ -6075,7 +6070,7 @@
     "suspicious": 1
   },
   "www.clmy.cc": {
-    "last_scanned": "2026-02-20T05:39:15+00:00",
+    "last_scanned": "2026-04-05T16:55:28+00:00",
     "malicious": 1,
     "suspicious": 0
   },
