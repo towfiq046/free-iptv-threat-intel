@@ -140,7 +140,7 @@
     "suspicious": 0
   },
   "103.159.4.38": {
-    "last_scanned": "2026-02-21T03:43:45+00:00",
+    "last_scanned": "2026-04-03T03:30:20+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -271,11 +271,6 @@
   },
   "109.248.236.51": {
     "last_scanned": "2025-11-13T05:58:13.481196+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "110.153.180.106": {
-    "last_scanned": "2026-02-26T03:56:15+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -535,7 +530,7 @@
     "suspicious": 0
   },
   "15.235.185.236": {
-    "last_scanned": "2026-02-19T04:46:01+00:00",
+    "last_scanned": "2026-04-04T09:02:25+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -766,11 +761,6 @@
   },
   "188.237.212.16": {
     "last_scanned": "2026-04-02T09:16:03+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "189.51.193.70": {
-    "last_scanned": "2026-02-24T19:10:49+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1183,6 +1173,11 @@
     "last_scanned": "2026-04-01T14:07:21+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "46.105.71.222": {
+    "last_scanned": "2026-04-03T05:51:18+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "46.36.37.186:8082": {
     "last_scanned": "2025-11-09T13:12:03.443193+00:00",
@@ -2170,7 +2165,7 @@
     "suspicious": 0
   },
   "amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-18T01:02:27+00:00",
+    "last_scanned": "2026-04-02T09:16:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2225,7 +2220,7 @@
     "suspicious": 0
   },
   "amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-17T08:07:51+00:00",
+    "last_scanned": "2026-04-01T17:14:39+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2365,7 +2360,7 @@
     "suspicious": 0
   },
   "api-ott.tidpix.com": {
-    "last_scanned": "2026-02-15T05:16:00+00:00",
+    "last_scanned": "2026-04-04T09:01:25+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2480,7 +2475,7 @@
     "suspicious": 0
   },
   "b6.crichd.tv": {
-    "last_scanned": "2026-02-18T01:01:36+00:00",
+    "last_scanned": "2026-04-05T09:02:49+00:00",
     "malicious": 2,
     "suspicious": 1
   },
@@ -2625,7 +2620,7 @@
     "suspicious": 0
   },
   "catchup.videoline.ru": {
-    "last_scanned": "2026-02-18T05:45:54+00:00",
+    "last_scanned": "2026-04-02T17:11:04+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -2940,9 +2935,9 @@
     "suspicious": 1
   },
   "d10.merichunidya.com": {
-    "last_scanned": "2026-02-14T05:12:38+00:00",
-    "malicious": 4,
-    "suspicious": 1
+    "last_scanned": "2026-04-05T09:02:51+00:00",
+    "malicious": 8,
+    "suspicious": 0
   },
   "d10.merichunidya.com:1686": {
     "last_scanned": "2025-11-04T09:12:32.419088+00:00",
@@ -3163,6 +3158,11 @@
     "last_scanned": "2026-02-15T05:17:33+00:00",
     "malicious": 8,
     "suspicious": 1
+  },
+  "dz2.bhalocast.com": {
+    "last_scanned": "2026-04-05T09:02:53+00:00",
+    "malicious": 1,
+    "suspicious": 0
   },
   "e100.encosilk.cc": {
     "last_scanned": "2025-10-31T09:22:10.608881+00:00",
@@ -3480,9 +3480,9 @@
     "suspicious": 0
   },
   "img.logo-cdn.cc": {
-    "last_scanned": "2026-02-19T04:47:18+00:00",
-    "malicious": 2,
-    "suspicious": 1
+    "last_scanned": "2026-04-04T16:57:08+00:00",
+    "malicious": 1,
+    "suspicious": 0
   },
   "img.yts.mx": {
     "last_scanned": "2026-01-24T04:32:36+00:00",
@@ -4086,6 +4086,11 @@
   },
   "n1.atntv.cc": {
     "last_scanned": "2026-02-20T08:06:07+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "n14.sanwalyaarpya.com": {
+    "last_scanned": "2026-04-05T16:56:32+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5055,7 +5060,7 @@
     "suspicious": 0
   },
   "sports.bdixtv24.com": {
-    "last_scanned": "2026-02-25T03:59:15+00:00",
+    "last_scanned": "2026-04-02T09:17:33+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5315,8 +5320,8 @@
     "suspicious": 0
   },
   "stream.az-multimedia.com": {
-    "last_scanned": "2026-02-23T11:13:21+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-04T09:02:25+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "stream.az-multimedia.com:3793": {
@@ -5416,11 +5421,6 @@
   },
   "streaming.astrakhan.ru": {
     "last_scanned": "2026-02-19T09:34:03+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "streaming.flamingotv.net": {
-    "last_scanned": "2026-02-20T04:01:01+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5845,8 +5845,8 @@
     "suspicious": 1
   },
   "user91229.clients-cdnnow.ru": {
-    "last_scanned": "2026-02-19T01:01:04+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-03T05:52:02+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "v4.proofix.ru": {
@@ -6247,6 +6247,11 @@
   "yayin.kudustv.com": {
     "last_scanned": "2026-04-02T05:50:10+00:00",
     "malicious": 2,
+    "suspicious": 0
+  },
+  "zagoratv.ddns.net": {
+    "last_scanned": "2026-04-02T05:50:15+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "zeerakmedia.com": {
