@@ -240,7 +240,7 @@
     "suspicious": 2
   },
   "103.84.57.155": {
-    "last_scanned": "2026-02-25T03:58:59+00:00",
+    "last_scanned": "2026-04-03T05:51:22+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -665,7 +665,7 @@
     "suspicious": 0
   },
   "181.78.106.127": {
-    "last_scanned": "2026-03-06T04:11:11+00:00",
+    "last_scanned": "2026-04-07T03:33:39+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -700,8 +700,8 @@
     "suspicious": 0
   },
   "181.78.50.91": {
-    "last_scanned": "2026-02-18T04:07:02+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-04-06T17:10:31+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "183.230.184.51:65500": {
@@ -1039,6 +1039,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "211.33.246.4": {
+    "last_scanned": "2026-04-06T09:43:24+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "212.102.34.8": {
     "last_scanned": "2026-02-18T06:45:44+00:00",
     "malicious": 1,
@@ -1115,7 +1120,7 @@
     "suspicious": 1
   },
   "38.64.72.148": {
-    "last_scanned": "2026-03-04T04:04:39+00:00",
+    "last_scanned": "2026-04-06T09:43:25+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1255,7 +1260,7 @@
     "suspicious": 0
   },
   "62.233.57.226": {
-    "last_scanned": "2026-03-02T03:42:30+00:00",
+    "last_scanned": "2026-04-04T03:19:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2295,7 +2300,7 @@
     "suspicious": 0
   },
   "amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv": {
-    "last_scanned": "2026-03-05T19:44:12+00:00",
+    "last_scanned": "2026-04-05T16:55:52+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2410,7 +2415,7 @@
     "suspicious": 0
   },
   "appstv.bdixbd.net": {
-    "last_scanned": "2026-03-05T10:34:11+00:00",
+    "last_scanned": "2026-04-05T09:03:51+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -2535,7 +2540,7 @@
     "suspicious": 0
   },
   "bdixtv24.site": {
-    "last_scanned": "2026-02-18T04:47:58+00:00",
+    "last_scanned": "2026-04-04T16:57:18+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -2715,7 +2720,7 @@
     "suspicious": 1
   },
   "cdn19.live247stream.com": {
-    "last_scanned": "2026-03-05T10:34:39+00:00",
+    "last_scanned": "2026-04-07T03:33:21+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2995,9 +3000,9 @@
     "suspicious": 1
   },
   "d6.merichunidya.com": {
-    "last_scanned": "2026-02-13T02:36:52+00:00",
-    "malicious": 6,
-    "suspicious": 1
+    "last_scanned": "2026-03-15T03:32:40+00:00",
+    "malicious": 8,
+    "suspicious": 0
   },
   "d6.merichunidya.com:1686": {
     "last_scanned": "2025-11-01T02:40:47.851042+00:00",
@@ -3210,8 +3215,8 @@
     "suspicious": 0
   },
   "epg.112114.xyz": {
-    "last_scanned": "2026-02-16T11:35:17+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-03-13T05:19:50+00:00",
+    "malicious": 2,
     "suspicious": 3
   },
   "epghub.xyz": {
@@ -3659,6 +3664,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "lemon.catchmeifyo.com": {
+    "last_scanned": "2026-04-05T09:02:37+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "line.furious-pro.cc": {
     "last_scanned": "2026-01-07T02:56:33+00:00",
     "malicious": 1,
@@ -3805,7 +3815,7 @@
     "suspicious": 0
   },
   "live.rednet.rs": {
-    "last_scanned": "2026-02-17T04:03:14+00:00",
+    "last_scanned": "2026-04-06T09:44:17+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3935,7 +3945,7 @@
     "suspicious": 0
   },
   "magicstream.ddns.net": {
-    "last_scanned": "2026-03-06T19:06:29+00:00",
+    "last_scanned": "2026-04-06T03:56:02+00:00",
     "malicious": 8,
     "suspicious": 0
   },
@@ -4189,6 +4199,11 @@
     "malicious": 2,
     "suspicious": 0
   },
+  "oneplaysport.cz": {
+    "last_scanned": "2026-04-06T17:10:57+00:00",
+    "malicious": 2,
+    "suspicious": 0
+  },
   "onezoo.net": {
     "last_scanned": "2026-02-18T01:01:50+00:00",
     "malicious": 3,
@@ -4245,7 +4260,7 @@
     "suspicious": 0
   },
   "pb.ihub.live": {
-    "last_scanned": "2026-02-18T05:45:51+00:00",
+    "last_scanned": "2026-04-02T03:29:35+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4328,11 +4343,6 @@
     "last_scanned": "2026-02-20T05:41:27+00:00",
     "malicious": 1,
     "suspicious": 1
-  },
-  "playztv-apps.pages.dev": {
-    "last_scanned": "2026-03-07T13:11:24+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "ply.upns.one&user-agent=exoplayerdemo": {
     "last_scanned": "2026-01-25T09:32:52+00:00",
@@ -4860,8 +4870,8 @@
     "suspicious": 0
   },
   "service.fullapple.me": {
-    "last_scanned": "2026-02-18T05:47:37+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-04-04T16:55:46+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "service.fullapple.me:8000": {
@@ -4915,7 +4925,7 @@
     "suspicious": 0
   },
   "shayan.bonus-tv.ru": {
-    "last_scanned": "2026-02-18T01:01:54+00:00",
+    "last_scanned": "2026-04-06T17:10:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5375,7 +5385,7 @@
     "suspicious": 0
   },
   "stream.zjjrtv.com": {
-    "last_scanned": "2026-02-17T06:42:59+00:00",
+    "last_scanned": "2026-04-07T03:35:32+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5700,7 +5710,7 @@
     "suspicious": 0
   },
   "tv.cootel.com.kh": {
-    "last_scanned": "2026-02-25T04:00:36+00:00",
+    "last_scanned": "2026-04-03T03:32:06+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5779,6 +5789,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "tvgrandenatalhd.duckdns.org": {
+    "last_scanned": "2026-04-03T05:50:49+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "tvh.cyn.cz": {
     "last_scanned": "2025-11-01T02:38:49.640643+00:00",
     "malicious": 1,
@@ -5845,7 +5860,7 @@
     "suspicious": 0
   },
   "v4.proofix.ru": {
-    "last_scanned": "2026-03-03T02:28:13+00:00",
+    "last_scanned": "2026-04-06T03:56:19+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5965,7 +5980,7 @@
     "suspicious": 0
   },
   "vslive.pw": {
-    "last_scanned": "2026-02-21T06:26:43+00:00",
+    "last_scanned": "2026-04-02T14:02:14+00:00",
     "malicious": 2,
     "suspicious": 0
   },
