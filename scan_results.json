@@ -230,9 +230,9 @@
     "suspicious": 0
   },
   "103.4.145.50": {
-    "last_scanned": "2026-03-06T12:25:46+00:00",
-    "malicious": 12,
-    "suspicious": 3
+    "last_scanned": "2026-04-07T13:54:23+00:00",
+    "malicious": 15,
+    "suspicious": 4
   },
   "103.4.145.50:8000": {
     "last_scanned": "2026-01-09T21:24:39+00:00",
@@ -605,7 +605,7 @@
     "suspicious": 0
   },
   "176.126.166.43": {
-    "last_scanned": "2026-03-05T10:34:14+00:00",
+    "last_scanned": "2026-04-06T09:44:57+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -774,11 +774,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "190.108.89.228": {
-    "last_scanned": "2026-02-19T01:02:33+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "190.11.225.124": {
     "last_scanned": "2026-02-21T04:24:21+00:00",
     "malicious": 1,
@@ -845,7 +840,7 @@
     "suspicious": 0
   },
   "195.181.169.152": {
-    "last_scanned": "2026-03-05T10:34:34+00:00",
+    "last_scanned": "2026-04-06T09:43:28+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -938,6 +933,11 @@
     "last_scanned": "2026-03-18T03:31:22+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "200.10.30.241": {
+    "last_scanned": "2026-04-07T09:39:47+00:00",
+    "malicious": 3,
+    "suspicious": 3
   },
   "200.113.4.75:7210": {
     "last_scanned": "2025-11-01T05:32:21.633151+00:00",
@@ -1085,7 +1085,7 @@
     "suspicious": 1
   },
   "23.88.66.93": {
-    "last_scanned": "2026-03-02T04:49:37+00:00",
+    "last_scanned": "2026-04-06T17:10:04+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1224,6 +1224,11 @@
     "malicious": 1,
     "suspicious": 1
   },
+  "51.222.9.192": {
+    "last_scanned": "2026-03-17T20:27:16+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "51.222.9.192:3589": {
     "last_scanned": "2025-11-04T03:11:49.518620+00:00",
     "malicious": 1,
@@ -1245,7 +1250,7 @@
     "suspicious": 0
   },
   "61.162.225.122": {
-    "last_scanned": "2026-02-20T05:41:16+00:00",
+    "last_scanned": "2026-04-03T17:11:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1270,7 +1275,7 @@
     "suspicious": 0
   },
   "68.183.41.209": {
-    "last_scanned": "2026-02-20T00:58:44+00:00",
+    "last_scanned": "2026-04-07T09:39:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1336,11 +1341,6 @@
   },
   "84.50.161.79:9981": {
     "last_scanned": "2026-01-01T04:49:56+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "84.54.128.52": {
-    "last_scanned": "2026-02-17T05:45:19+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2031,6 +2031,11 @@
   },
   "92.247.25.42:11536": {
     "last_scanned": "2026-01-03T15:34:57+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "93.184.10.248": {
+    "last_scanned": "2026-04-04T03:18:49+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3055,8 +3060,8 @@
     "suspicious": 1
   },
   "dev.aftermind.xyz": {
-    "last_scanned": "2026-02-17T05:46:17+00:00",
-    "malicious": 4,
+    "last_scanned": "2026-04-06T08:01:59+00:00",
+    "malicious": 7,
     "suspicious": 1
   },
   "devatv.applelive.in": {
@@ -3095,7 +3100,7 @@
     "suspicious": 0
   },
   "directplaylive.sbs": {
-    "last_scanned": "2026-02-19T01:02:11+00:00",
+    "last_scanned": "2026-04-07T09:40:19+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -3514,11 +3519,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "in-mc-fdlive.fancode.com": {
-    "last_scanned": "2026-03-03T06:56:39+00:00",
-    "malicious": 2,
-    "suspicious": 1
-  },
   "instreams.click": {
     "last_scanned": "2026-03-03T03:45:41+00:00",
     "malicious": 8,
@@ -3885,7 +3885,7 @@
     "suspicious": 0
   },
   "lkn1.chowdhury-shaheb.com": {
-    "last_scanned": "2026-02-19T15:35:56+00:00",
+    "last_scanned": "2026-04-04T09:00:39+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4070,7 +4070,7 @@
     "suspicious": 0
   },
   "moviebangla.tv": {
-    "last_scanned": "2026-02-18T06:45:49+00:00",
+    "last_scanned": "2026-04-07T09:40:01+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4205,7 +4205,7 @@
     "suspicious": 0
   },
   "onezoo.net": {
-    "last_scanned": "2026-02-18T01:01:50+00:00",
+    "last_scanned": "2026-04-07T09:39:49+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -4240,7 +4240,7 @@
     "suspicious": 0
   },
   "oxolive.com": {
-    "last_scanned": "2026-03-03T06:56:37+00:00",
+    "last_scanned": "2026-04-06T03:54:44+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4403,6 +4403,11 @@
     "last_scanned": "2026-01-07T04:01:22+00:00",
     "malicious": 6,
     "suspicious": 1
+  },
+  "proxy.bdiptv.store": {
+    "last_scanned": "2026-04-05T16:56:00+00:00",
+    "malicious": 6,
+    "suspicious": 0
   },
   "proxy.nettv.fun": {
     "last_scanned": "2026-03-06T03:11:04+00:00",
@@ -5280,7 +5285,7 @@
     "suspicious": 0
   },
   "starsportshindiii.pages.dev": {
-    "last_scanned": "2026-02-17T04:03:32+00:00",
+    "last_scanned": "2026-04-02T17:11:11+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5350,14 +5355,14 @@
     "suspicious": 0
   },
   "stream.luci.xyz": {
-    "last_scanned": "2026-02-24T23:49:39+00:00",
-    "malicious": 2,
-    "suspicious": 2
+    "last_scanned": "2026-04-05T16:55:41+00:00",
+    "malicious": 4,
+    "suspicious": 1
   },
   "stream.nasatv.com.mk": {
-    "last_scanned": "2026-03-05T19:44:14+00:00",
-    "malicious": 8,
-    "suspicious": 0
+    "last_scanned": "2026-04-07T09:39:29+00:00",
+    "malicious": 11,
+    "suspicious": 1
   },
   "stream.rsgmedia.ba": {
     "last_scanned": "2025-12-10T01:45:28+00:00",
@@ -5400,7 +5405,7 @@
     "suspicious": 1
   },
   "stream1.stou.ac.th": {
-    "last_scanned": "2026-02-19T01:01:23+00:00",
+    "last_scanned": "2026-04-07T09:40:09+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5454,8 +5459,13 @@
     "malicious": 1,
     "suspicious": 1
   },
+  "streaming101.goodstream.cyou": {
+    "last_scanned": "2026-04-04T09:00:26+00:00",
+    "malicious": 2,
+    "suspicious": 0
+  },
   "streamingengine.rtvplus.tv": {
-    "last_scanned": "2026-03-01T21:26:17+00:00",
+    "last_scanned": "2026-04-03T09:11:34+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6025,7 +6035,7 @@
     "suspicious": 1
   },
   "windnew.iosplayer.ru": {
-    "last_scanned": "2026-02-18T05:46:55+00:00",
+    "last_scanned": "2026-04-06T03:54:33+00:00",
     "malicious": 1,
     "suspicious": 0
   },
