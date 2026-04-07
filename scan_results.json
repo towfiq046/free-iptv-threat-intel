@@ -100,7 +100,7 @@
     "suspicious": 0
   },
   "103.122.252.100": {
-    "last_scanned": "2026-03-07T07:01:20+00:00",
+    "last_scanned": "2026-03-09T03:18:28+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -203,6 +203,11 @@
     "last_scanned": "2025-11-04T04:02:32.949247+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "103.190.133.68": {
+    "last_scanned": "2026-04-06T09:43:08+00:00",
+    "malicious": 7,
+    "suspicious": 4
   },
   "103.225.94.27": {
     "last_scanned": "2026-03-09T17:10:55+00:00",
@@ -615,7 +620,7 @@
     "suspicious": 1
   },
   "178.33.239.54": {
-    "last_scanned": "2026-02-19T15:36:18+00:00",
+    "last_scanned": "2026-03-13T16:59:30+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -860,7 +865,7 @@
     "suspicious": 0
   },
   "195.226.218.163": {
-    "last_scanned": "2026-03-05T19:44:31+00:00",
+    "last_scanned": "2026-04-05T16:56:36+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1185,7 +1190,7 @@
     "suspicious": 0
   },
   "4k.spicetv.cc": {
-    "last_scanned": "2026-02-20T05:41:13+00:00",
+    "last_scanned": "2026-04-04T03:18:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1216,6 +1221,16 @@
   },
   "51.222.9.192:3589": {
     "last_scanned": "2025-11-04T03:11:49.518620+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "57.129.53.130": {
+    "last_scanned": "2026-04-03T09:11:51+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "584943999.r.worldssl.net": {
+    "last_scanned": "2026-04-06T09:44:34+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2305,7 +2320,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv": {
-    "last_scanned": "2026-02-18T04:07:11+00:00",
+    "last_scanned": "2026-04-06T17:11:10+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2515,7 +2530,7 @@
     "suspicious": 0
   },
   "bdixtv24.com": {
-    "last_scanned": "2026-02-20T00:58:30+00:00",
+    "last_scanned": "2026-04-02T09:16:56+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3095,8 +3110,8 @@
     "suspicious": 0
   },
   "dl.dropboxusercontent.com": {
-    "last_scanned": "2026-02-18T04:48:27+00:00",
-    "malicious": 6,
+    "last_scanned": "2026-04-04T09:01:12+00:00",
+    "malicious": 4,
     "suspicious": 0
   },
   "domacica.bigportal.ba": {
@@ -3215,7 +3230,7 @@
     "suspicious": 0
   },
   "evbr.short.gy": {
-    "last_scanned": "2026-02-13T10:35:52+00:00",
+    "last_scanned": "2026-04-06T17:08:54+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3525,7 +3540,7 @@
     "suspicious": 0
   },
   "iptvtree.net": {
-    "last_scanned": "2026-03-05T19:44:24+00:00",
+    "last_scanned": "2026-04-06T17:09:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3710,7 +3725,7 @@
     "suspicious": 0
   },
   "live.detodotvplay.com": {
-    "last_scanned": "2026-02-19T05:44:16+00:00",
+    "last_scanned": "2026-04-04T09:00:27+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3735,8 +3750,8 @@
     "suspicious": 0
   },
   "live.imamhossaintv.com": {
-    "last_scanned": "2026-02-17T08:07:45+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-04-05T09:02:40+00:00",
+    "malicious": 12,
     "suspicious": 0
   },
   "live.indostreamserver.com": {
@@ -3875,7 +3890,7 @@
     "suspicious": 0
   },
   "lstv.duckdns.org": {
-    "last_scanned": "2026-02-26T02:36:37+00:00",
+    "last_scanned": "2026-03-17T20:25:38+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3955,7 +3970,7 @@
     "suspicious": 0
   },
   "media.zongmobiletv.com": {
-    "last_scanned": "2026-02-17T04:03:33+00:00",
+    "last_scanned": "2026-04-03T03:32:09+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4085,7 +4100,7 @@
     "suspicious": 1
   },
   "n1.atntv.cc": {
-    "last_scanned": "2026-02-20T08:06:07+00:00",
+    "last_scanned": "2026-04-06T17:10:55+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4219,11 +4234,6 @@
     "malicious": 9,
     "suspicious": 1
   },
-  "panel.dattalive.com": {
-    "last_scanned": "2026-03-07T07:01:08+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "papagal.shop": {
     "last_scanned": "2026-04-01T14:10:45+00:00",
     "malicious": 1,
@@ -4349,11 +4359,6 @@
     "malicious": 3,
     "suspicious": 1
   },
-  "private-zone-by-xfireflix.pages.dev": {
-    "last_scanned": "2026-02-18T04:48:37+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "probashi.alvegroups.com:8081": {
     "last_scanned": "2025-11-01T05:31:31.630645+00:00",
     "malicious": 1,
@@ -4475,8 +4480,8 @@
     "suspicious": 0
   },
   "restreamer1.tnt.ba": {
-    "last_scanned": "2026-02-24T23:49:32+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-04-02T14:01:47+00:00",
+    "malicious": 7,
     "suspicious": 0
   },
   "rkdy-zcatt.wasmer.app": {
@@ -5300,7 +5305,7 @@
     "suspicious": 0
   },
   "stream.arcast.net": {
-    "last_scanned": "2026-03-06T04:10:21+00:00",
+    "last_scanned": "2026-03-17T20:30:44+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5580,7 +5585,7 @@
     "suspicious": 0
   },
   "tbilbo.dyndns.org": {
-    "last_scanned": "2026-02-20T04:01:09+00:00",
+    "last_scanned": "2026-04-04T03:20:01+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5710,9 +5715,9 @@
     "suspicious": 0
   },
   "tv.digitalbox.xyz": {
-    "last_scanned": "2026-02-19T04:05:50+00:00",
+    "last_scanned": "2026-04-05T16:56:20+00:00",
     "malicious": 1,
-    "suspicious": 1
+    "suspicious": 3
   },
   "tv.digitalview.live": {
     "last_scanned": "2026-04-01T09:50:05+00:00",
