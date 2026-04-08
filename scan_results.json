@@ -3959,6 +3959,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "marketingplatform.google.com": {
+    "last_scanned": "2026-04-08T08:02:17+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "master.tucableip.com": {
     "last_scanned": "2026-03-18T13:31:26+00:00",
     "malicious": 2,
