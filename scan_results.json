@@ -109,6 +109,11 @@
     "malicious": 1,
     "suspicious": 1
   },
+  "103.124.251.164": {
+    "last_scanned": "2026-05-01T21:09:39+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "103.124.251.164:28015": {
     "last_scanned": "2026-01-07T04:01:36+00:00",
     "malicious": 1,
@@ -130,7 +135,7 @@
     "suspicious": 0
   },
   "103.151.60.204": {
-    "last_scanned": "2026-04-01T14:09:39+00:00",
+    "last_scanned": "2026-05-01T21:09:21+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -424,11 +429,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "128.199.184.111": {
-    "last_scanned": "2026-04-01T14:10:36+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "128.199.184.111:12496": {
     "last_scanned": "2026-01-03T19:09:30+00:00",
     "malicious": 1,
@@ -465,7 +465,7 @@
     "suspicious": 0
   },
   "138.68.138.119": {
-    "last_scanned": "2026-04-01T14:11:04+00:00",
+    "last_scanned": "2026-05-01T21:09:37+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -484,18 +484,13 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "139.59.86.99": {
-    "last_scanned": "2026-04-01T14:09:37+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "139.59.86.99:12496": {
     "last_scanned": "2026-01-01T03:55:01+00:00",
     "malicious": 1,
     "suspicious": 0
   },
   "14.102.123.50": {
-    "last_scanned": "2026-04-01T14:09:38+00:00",
+    "last_scanned": "2026-05-01T21:10:08+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -854,11 +849,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "195.189.60.31": {
-    "last_scanned": "2026-04-01T14:10:41+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "195.189.60.31:8003": {
     "last_scanned": "2026-01-07T01:00:02+00:00",
     "malicious": 1,
@@ -868,6 +858,11 @@
     "last_scanned": "2026-04-05T16:56:36+00:00",
     "malicious": 1,
     "suspicious": 0
+  },
+  "195.26.87.217": {
+    "last_scanned": "2026-05-01T21:09:14+00:00",
+    "malicious": 2,
+    "suspicious": 1
   },
   "195.64.140.147": {
     "last_scanned": "2026-01-19T02:02:13+00:00",
@@ -1989,6 +1984,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "8r1fp7ro6am.a.trbcdn.net": {
+    "last_scanned": "2026-05-01T21:09:56+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "91.220.221.60": {
     "last_scanned": "2026-04-04T09:02:02+00:00",
     "malicious": 1,
@@ -2265,7 +2265,7 @@
     "suspicious": 0
   },
   "amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv": {
-    "last_scanned": "2026-04-01T14:10:02+00:00",
+    "last_scanned": "2026-05-01T21:09:14+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2649,8 +2649,13 @@
     "malicious": 2,
     "suspicious": 0
   },
+  "cb24tv.com": {
+    "last_scanned": "2026-05-01T21:09:48+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "cdn-01.bonus-tv.ru": {
-    "last_scanned": "2026-04-01T14:09:52+00:00",
+    "last_scanned": "2026-05-01T21:10:14+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2905,8 +2910,13 @@
     "suspicious": 1
   },
   "criccoder.pages.dev": {
-    "last_scanned": "2026-04-01T14:09:29+00:00",
+    "last_scanned": "2026-05-01T21:09:37+00:00",
     "malicious": 3,
+    "suspicious": 0
+  },
+  "crichd.filofilmes.art": {
+    "last_scanned": "2026-05-01T21:09:13+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "crtvg-america.flumotion.cloud": {
@@ -3041,6 +3051,11 @@
   },
   "daffodil.serverbandel.sbs": {
     "last_scanned": "2026-03-06T04:11:10+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "ddy6new.iosplayer.ru": {
+    "last_scanned": "2026-05-01T21:09:27+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3420,9 +3435,9 @@
     "suspicious": 0
   },
   "home-playtv.com": {
-    "last_scanned": "2026-04-01T14:10:13+00:00",
-    "malicious": 1,
-    "suspicious": 0
+    "last_scanned": "2026-05-01T21:09:18+00:00",
+    "malicious": 2,
+    "suspicious": 1
   },
   "htekclub.com": {
     "last_scanned": "2026-01-27T06:32:36+00:00",
@@ -3800,8 +3815,8 @@
     "suspicious": 0
   },
   "live.matribhumitv.com": {
-    "last_scanned": "2026-04-01T14:11:06+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-05-01T21:09:44+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "live.mediacdn.ru": {
@@ -3895,7 +3910,7 @@
     "suspicious": 0
   },
   "logowik.com": {
-    "last_scanned": "2026-04-01T14:10:05+00:00",
+    "last_scanned": "2026-05-01T21:09:56+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4260,7 +4275,7 @@
     "suspicious": 1
   },
   "papagal.shop": {
-    "last_scanned": "2026-04-01T14:10:45+00:00",
+    "last_scanned": "2026-05-01T21:10:13+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4285,7 +4300,7 @@
     "suspicious": 0
   },
   "peoplesradio.fm": {
-    "last_scanned": "2026-04-01T14:09:53+00:00",
+    "last_scanned": "2026-05-01T21:10:29+00:00",
     "malicious": 3,
     "suspicious": 0
   },
@@ -4425,7 +4440,7 @@
     "suspicious": 0
   },
   "publicnews.com": {
-    "last_scanned": "2026-04-01T14:10:31+00:00",
+    "last_scanned": "2026-05-01T21:10:17+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4460,9 +4475,9 @@
     "suspicious": 0
   },
   "radiomahananda.com": {
-    "last_scanned": "2026-04-01T14:10:22+00:00",
-    "malicious": 2,
-    "suspicious": 2
+    "last_scanned": "2026-05-01T21:09:44+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "radios.crabdance.com:8002": {
     "last_scanned": "2025-12-01T04:52:03+00:00",
@@ -4513,6 +4528,11 @@
     "last_scanned": "2026-04-02T14:01:47+00:00",
     "malicious": 7,
     "suspicious": 0
+  },
+  "rhsbjv7k.tvclub.xyz": {
+    "last_scanned": "2026-05-01T21:09:11+00:00",
+    "malicious": 1,
+    "suspicious": 1
   },
   "rkdy-zcatt.wasmer.app": {
     "last_scanned": "2025-12-01T12:44:46+00:00",
@@ -6015,7 +6035,7 @@
     "suspicious": 0
   },
   "wapka-cdn.zuna.id": {
-    "last_scanned": "2026-04-01T14:09:39+00:00",
+    "last_scanned": "2026-05-01T21:10:18+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -6155,7 +6175,7 @@
     "suspicious": 0
   },
   "www.epicon.in": {
-    "last_scanned": "2026-04-01T14:10:25+00:00",
+    "last_scanned": "2026-05-01T21:09:42+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6278,6 +6298,11 @@
     "last_scanned": "2026-04-02T05:50:10+00:00",
     "malicious": 2,
     "suspicious": 0
+  },
+  "yesimes.oknirvana.club": {
+    "last_scanned": "2026-05-01T21:10:15+00:00",
+    "malicious": 1,
+    "suspicious": 2
   },
   "zagoratv.ddns.net": {
     "last_scanned": "2026-04-02T05:50:15+00:00",
