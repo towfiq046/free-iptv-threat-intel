@@ -925,7 +925,7 @@
     "suspicious": 0
   },
   "198.195.239.50": {
-    "last_scanned": "2026-04-02T07:44:53+00:00",
+    "last_scanned": "2026-04-23T12:05:12+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2685,7 +2685,7 @@
     "suspicious": 0
   },
   "cdn.livestreambd.com": {
-    "last_scanned": "2026-04-01T19:34:47+00:00",
+    "last_scanned": "2026-05-01T21:10:30+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3086,6 +3086,11 @@
   },
   "df16ea90s1u1080.0227f5e80acfd3ae.live": {
     "last_scanned": "2025-11-02T05:13:59.080843+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "dffgtrdb.vffddd.online": {
+    "last_scanned": "2026-05-02T03:52:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6260,9 +6265,9 @@
     "suspicious": 0
   },
   "www.usbdjournal24.com": {
-    "last_scanned": "2026-04-01T14:10:46+00:00",
-    "malicious": 3,
-    "suspicious": 0
+    "last_scanned": "2026-05-02T03:53:03+00:00",
+    "malicious": 2,
+    "suspicious": 1
   },
   "www.youtube.com": {
     "last_scanned": "2026-04-03T09:11:07+00:00",
