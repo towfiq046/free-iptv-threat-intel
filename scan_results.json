@@ -3269,6 +3269,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "executeandship.com": {
+    "last_scanned": "2026-05-03T04:12:38+00:00",
+    "malicious": 2,
+    "suspicious": 0
+  },
   "fancode.mafiatv.live": {
     "last_scanned": "2026-04-02T17:12:17+00:00",
     "malicious": 5,
