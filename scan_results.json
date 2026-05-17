@@ -4175,7 +4175,7 @@
     "suspicious": 2
   },
   "newproxy3.vidivu.tv": {
-    "last_scanned": "2026-02-23T13:19:09+00:00",
+    "last_scanned": "2026-05-01T21:04:44+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5949,6 +5949,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "video2.getstreamhosting.com": {
+    "last_scanned": "2026-05-13T01:19:04+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "videx-limit182-stream.x10.mx": {
     "last_scanned": "2026-03-12T17:11:22+00:00",
     "malicious": 1,
@@ -5975,7 +5980,7 @@
     "suspicious": 0
   },
   "vmi3039524.contaboserver.net": {
-    "last_scanned": "2026-03-12T13:38:09+00:00",
+    "last_scanned": "2026-04-23T12:06:13+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -6085,8 +6090,8 @@
     "suspicious": 0
   },
   "wms.tecnoxia.com": {
-    "last_scanned": "2026-02-20T04:00:26+00:00",
-    "malicious": 2,
+    "last_scanned": "2026-05-17T10:09:31+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "wms.tecnoxia.com:1935": {
