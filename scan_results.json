@@ -2980,8 +2980,8 @@
     "suspicious": 1
   },
   "d2.merichunidya.com": {
-    "last_scanned": "2026-03-09T09:03:21+00:00",
-    "malicious": 5,
+    "last_scanned": "2026-05-18T04:42:18+00:00",
+    "malicious": 3,
     "suspicious": 0
   },
   "d2.merichunidya.com:1686": {
@@ -3935,7 +3935,7 @@
     "suspicious": 0
   },
   "lu.wqwqwq.sbs": {
-    "last_scanned": "2026-04-01T17:13:21+00:00",
+    "last_scanned": "2026-05-18T11:58:04+00:00",
     "malicious": 3,
     "suspicious": 0
   },
