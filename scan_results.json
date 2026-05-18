@@ -620,7 +620,7 @@
     "suspicious": 0
   },
   "176.67.210.1": {
-    "last_scanned": "2026-04-06T09:43:36+00:00",
+    "last_scanned": "2026-05-18T04:41:08+00:00",
     "malicious": 6,
     "suspicious": 1
   },
@@ -3139,11 +3139,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "dl.dropbox.com": {
-    "last_scanned": "2026-03-07T13:12:49+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "dl.dropboxusercontent.com": {
     "last_scanned": "2026-04-04T09:01:12+00:00",
     "malicious": 4,
@@ -3383,11 +3378,6 @@
     "last_scanned": "2026-02-03T02:31:43+00:00",
     "malicious": 1,
     "suspicious": 2
-  },
-  "gohoski.fvds.ru": {
-    "last_scanned": "2026-03-03T04:48:53+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "gohoski.fvds.ru:3000": {
     "last_scanned": "2026-01-09T02:58:49+00:00",
@@ -5554,6 +5544,11 @@
     "malicious": 2,
     "suspicious": 0
   },
+  "sv101.ifastnet.com": {
+    "last_scanned": "2026-05-09T08:47:48+00:00",
+    "malicious": 4,
+    "suspicious": 1
+  },
   "sv1f.boehmerrbfjx.sbs": {
     "last_scanned": "2025-11-03T03:07:11.907518+00:00",
     "malicious": 1,
@@ -5725,8 +5720,8 @@
     "suspicious": 0
   },
   "tntm.mediacdn.ru": {
-    "last_scanned": "2026-03-12T17:11:18+00:00",
-    "malicious": 1,
+    "last_scanned": "2026-05-18T04:41:51+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "top1.iosplayer.ru": {
