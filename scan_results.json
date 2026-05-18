@@ -549,6 +549,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "159.203.148.226": {
+    "last_scanned": "2026-04-23T11:49:18+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "161.123.116.21": {
     "last_scanned": "2026-01-23T03:03:45+00:00",
     "malicious": 2,
@@ -707,11 +712,6 @@
   "183.230.184.51:65500": {
     "last_scanned": "2025-11-07T06:19:53.849122+00:00",
     "malicious": 1,
-    "suspicious": 0
-  },
-  "183.237.95.108": {
-    "last_scanned": "2026-04-01T14:06:23+00:00",
-    "malicious": 2,
     "suspicious": 0
   },
   "183.237.95.108:9901": {
@@ -2490,9 +2490,9 @@
     "suspicious": 2
   },
   "authxplus-2.xyz": {
-    "last_scanned": "2026-04-01T19:34:39+00:00",
-    "malicious": 2,
-    "suspicious": 2
+    "last_scanned": "2026-05-02T03:52:53+00:00",
+    "malicious": 4,
+    "suspicious": 3
   },
   "awtv.nuvemplay.live": {
     "last_scanned": "2026-02-03T05:17:51+00:00",
@@ -3256,6 +3256,11 @@
   },
   "epgx.site": {
     "last_scanned": "2026-01-05T05:30:16+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "ert-live-bcbs15228.siliconweb.com": {
+    "last_scanned": "2026-05-01T21:09:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5400,9 +5405,9 @@
     "suspicious": 0
   },
   "stream.luci.xyz": {
-    "last_scanned": "2026-04-05T16:55:41+00:00",
+    "last_scanned": "2026-05-17T10:09:38+00:00",
     "malicious": 4,
-    "suspicious": 1
+    "suspicious": 2
   },
   "stream.nasatv.com.mk": {
     "last_scanned": "2026-04-07T09:39:29+00:00",
