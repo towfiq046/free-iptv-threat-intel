@@ -1264,11 +1264,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "68.183.41.209": {
-    "last_scanned": "2026-04-07T09:39:46+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "68.183.41.209:8080": {
     "last_scanned": "2026-01-08T03:58:50+00:00",
     "malicious": 1,
@@ -2094,6 +2089,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "agh2019.xyz": {
+    "last_scanned": "2026-05-17T10:09:32+00:00",
+    "malicious": 1,
+    "suspicious": 2
+  },
   "albuk.dyndns.tv": {
     "last_scanned": "2026-04-02T14:01:55+00:00",
     "malicious": 1,
@@ -2330,7 +2330,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv": {
-    "last_scanned": "2026-04-02T05:50:00+00:00",
+    "last_scanned": "2026-05-18T04:42:13+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2535,7 +2535,7 @@
     "suspicious": 0
   },
   "bdiptv.stream": {
-    "last_scanned": "2026-04-03T09:11:30+00:00",
+    "last_scanned": "2026-04-23T12:05:29+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2565,7 +2565,7 @@
     "suspicious": 2
   },
   "bit.ly": {
-    "last_scanned": "2026-02-18T06:46:15+00:00",
+    "last_scanned": "2026-05-19T04:24:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3260,7 +3260,7 @@
     "suspicious": 0
   },
   "eu.live.skyfolk.mk": {
-    "last_scanned": "2026-03-17T20:27:19+00:00",
+    "last_scanned": "2026-05-11T07:52:45+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -4535,7 +4535,7 @@
     "suspicious": 0
   },
   "restreamer1.tnt.ba": {
-    "last_scanned": "2026-04-02T14:01:47+00:00",
+    "last_scanned": "2026-05-19T04:25:05+00:00",
     "malicious": 7,
     "suspicious": 0
   },
@@ -5940,7 +5940,7 @@
     "suspicious": 0
   },
   "video.govoritmoskva.ru": {
-    "last_scanned": "2026-04-01T21:03:37+00:00",
+    "last_scanned": "2026-05-18T04:42:31+00:00",
     "malicious": 2,
     "suspicious": 0
   },
