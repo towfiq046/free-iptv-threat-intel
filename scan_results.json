@@ -649,11 +649,6 @@
     "malicious": 2,
     "suspicious": 1
   },
-  "181.13.112.203": {
-    "last_scanned": "2026-02-25T03:59:37+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "181.188.234.21": {
     "last_scanned": "2026-02-07T06:10:15+00:00",
     "malicious": 1,
@@ -1279,11 +1274,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "77.68.40.210": {
-    "last_scanned": "2026-04-01T09:49:48+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "77.68.40.210:8888": {
     "last_scanned": "2026-01-08T00:59:04+00:00",
     "malicious": 1,
@@ -1358,11 +1348,6 @@
     "last_scanned": "2025-11-01T05:33:20.373943+00:00",
     "malicious": 1,
     "suspicious": 1
-  },
-  "86.57.209.210": {
-    "last_scanned": "2026-04-01T21:03:23+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "87.246.60.6:11004": {
     "last_scanned": "2025-11-04T09:03:39.481758+00:00",
@@ -2030,7 +2015,7 @@
     "suspicious": 0
   },
   "93.184.10.248": {
-    "last_scanned": "2026-04-04T03:18:49+00:00",
+    "last_scanned": "2026-05-17T10:09:46+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2071,6 +2056,11 @@
   },
   "a.cdni.live": {
     "last_scanned": "2026-04-04T09:00:28+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
+  "a1xs.vip": {
+    "last_scanned": "2026-05-17T10:10:57+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2435,7 +2425,7 @@
     "suspicious": 1
   },
   "arcast.net": {
-    "last_scanned": "2026-03-17T20:15:39+00:00",
+    "last_scanned": "2026-05-19T11:39:45+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3070,7 +3060,7 @@
     "suspicious": 0
   },
   "deb10stream.duckdns.org": {
-    "last_scanned": "2026-02-24T23:49:21+00:00",
+    "last_scanned": "2026-05-17T17:13:33+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3719,11 +3709,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "list.iptvcat.com": {
-    "last_scanned": "2026-04-03T03:30:22+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "live-en.aisports.cc": {
     "last_scanned": "2026-04-01T09:51:13+00:00",
     "malicious": 1,
@@ -3911,11 +3896,6 @@
   },
   "livestreamcdn.net:1935": {
     "last_scanned": "2025-11-21T13:37:19.152928+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "lkn1.chowdhury-shaheb.com": {
-    "last_scanned": "2026-04-04T09:00:39+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4304,11 +4284,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "pcdn1.discoveryftp.net": {
-    "last_scanned": "2026-04-03T17:10:09+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "peoplesradio.fm": {
     "last_scanned": "2026-05-01T21:10:29+00:00",
     "malicious": 3,
@@ -4480,7 +4455,7 @@
     "suspicious": 0
   },
   "radiojnd.cdn.hostin.cc": {
-    "last_scanned": "2026-04-01T21:02:09+00:00",
+    "last_scanned": "2026-05-19T04:24:53+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5404,6 +5379,11 @@
     "malicious": 11,
     "suspicious": 1
   },
+  "stream.ontvmx.com": {
+    "last_scanned": "2026-05-13T01:19:08+00:00",
+    "malicious": 2,
+    "suspicious": 0
+  },
   "stream.rsgmedia.ba": {
     "last_scanned": "2025-12-10T01:45:28+00:00",
     "malicious": 1,
@@ -5443,11 +5423,6 @@
     "last_scanned": "2026-04-03T03:31:41+00:00",
     "malicious": 1,
     "suspicious": 1
-  },
-  "stream1.stou.ac.th": {
-    "last_scanned": "2026-04-07T09:40:09+00:00",
-    "malicious": 1,
-    "suspicious": 0
   },
   "stream10.jlntv.cn": {
     "last_scanned": "2025-11-04T09:12:35.727376+00:00",
@@ -5684,6 +5659,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "test-otv1.ftpbd.net": {
+    "last_scanned": "2026-05-18T11:56:47+00:00",
+    "malicious": 2,
+    "suspicious": 0
+  },
   "test.dreamboxserver.net": {
     "last_scanned": "2026-01-08T05:17:35+00:00",
     "malicious": 1,
@@ -5785,7 +5765,7 @@
     "suspicious": 0
   },
   "tv.digitalbox.xyz": {
-    "last_scanned": "2026-04-05T16:56:20+00:00",
+    "last_scanned": "2026-04-28T22:30:12+00:00",
     "malicious": 1,
     "suspicious": 3
   },
@@ -6330,7 +6310,7 @@
     "suspicious": 0
   },
   "zeerakmedia.com": {
-    "last_scanned": "2026-04-01T14:06:15+00:00",
+    "last_scanned": "2026-05-18T11:58:10+00:00",
     "malicious": 1,
     "suspicious": 0
   },
