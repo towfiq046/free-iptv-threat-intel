@@ -665,8 +665,8 @@
     "suspicious": 0
   },
   "181.78.109.48": {
-    "last_scanned": "2026-04-06T03:55:53+00:00",
-    "malicious": 5,
+    "last_scanned": "2026-05-17T10:09:56+00:00",
+    "malicious": 9,
     "suspicious": 3
   },
   "181.78.12.119": {
@@ -692,11 +692,6 @@
   "181.78.4.250": {
     "last_scanned": "2026-03-08T03:22:16+00:00",
     "malicious": 2,
-    "suspicious": 0
-  },
-  "181.78.50.91": {
-    "last_scanned": "2026-04-06T17:10:31+00:00",
-    "malicious": 3,
     "suspicious": 0
   },
   "183.230.184.51:65500": {
@@ -1944,11 +1939,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "88.99.254.101": {
-    "last_scanned": "2026-04-03T05:52:24+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "89.187.168.245": {
     "last_scanned": "2026-05-18T04:42:01+00:00",
     "malicious": 2,
@@ -2250,7 +2240,7 @@
     "suspicious": 0
   },
   "amg02132-amg02132c2-amgplt0016.playout.now3.amagi.tv": {
-    "last_scanned": "2026-04-01T17:12:28+00:00",
+    "last_scanned": "2026-05-20T04:37:12+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2385,8 +2375,8 @@
     "suspicious": 0
   },
   "api.himel-op.top": {
-    "last_scanned": "2026-02-23T08:17:54+00:00",
-    "malicious": 5,
+    "last_scanned": "2026-05-19T04:23:47+00:00",
+    "malicious": 6,
     "suspicious": 1
   },
   "api.olelive.com": {
@@ -3214,11 +3204,6 @@
     "malicious": 1,
     "suspicious": 0
   },
-  "ekdilhai.pro": {
-    "last_scanned": "2026-04-02T09:16:17+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
   "envivo.bolivia-link.com:3337": {
     "last_scanned": "2025-11-04T09:34:36.317656+00:00",
     "malicious": 1,
@@ -3735,7 +3720,7 @@
     "suspicious": 0
   },
   "live.cztv.cc": {
-    "last_scanned": "2026-03-02T08:01:50+00:00",
+    "last_scanned": "2026-05-18T04:41:00+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3762,6 +3747,11 @@
   "live.fanmingming.cn": {
     "last_scanned": "2026-02-11T02:41:45+00:00",
     "malicious": 1,
+    "suspicious": 0
+  },
+  "live.funhillrm.com": {
+    "last_scanned": "2026-05-18T11:58:37+00:00",
+    "malicious": 2,
     "suspicious": 0
   },
   "live.happywatch99.com": {
@@ -4040,9 +4030,9 @@
     "suspicious": 0
   },
   "mini.allinonereborn.fun": {
-    "last_scanned": "2026-02-23T08:18:34+00:00",
-    "malicious": 1,
-    "suspicious": 0
+    "last_scanned": "2026-05-19T18:18:32+00:00",
+    "malicious": 10,
+    "suspicious": 2
   },
   "mini.allinonereborn.online": {
     "last_scanned": "2026-04-01T14:06:55+00:00",
@@ -4085,7 +4075,7 @@
     "suspicious": 0
   },
   "moviebangla.tv": {
-    "last_scanned": "2026-04-07T09:40:01+00:00",
+    "last_scanned": "2026-05-18T18:10:08+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4860,7 +4850,7 @@
     "suspicious": 0
   },
   "server.applelive.in": {
-    "last_scanned": "2025-11-02T05:12:46.275662+00:00",
+    "last_scanned": "2026-04-24T17:01:39+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4950,7 +4940,7 @@
     "suspicious": 0
   },
   "shayan.bonus-tv.ru": {
-    "last_scanned": "2026-04-06T17:10:45+00:00",
+    "last_scanned": "2026-05-18T18:09:54+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5060,9 +5050,9 @@
     "suspicious": 1
   },
   "smarthard.click": {
-    "last_scanned": "2026-03-09T03:19:06+00:00",
-    "malicious": 2,
-    "suspicious": 4
+    "last_scanned": "2026-05-19T11:39:11+00:00",
+    "malicious": 4,
+    "suspicious": 1
   },
   "sojg.amberwels.sbs": {
     "last_scanned": "2025-11-02T04:12:58.302061+00:00",
@@ -5850,7 +5840,7 @@
     "suspicious": 0
   },
   "tvn1.chowdhury-shaheb.com": {
-    "last_scanned": "2026-04-04T13:37:24+00:00",
+    "last_scanned": "2026-04-23T12:05:49+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -6032,11 +6022,6 @@
   "vslive.pw": {
     "last_scanned": "2026-04-02T14:02:14+00:00",
     "malicious": 2,
-    "suspicious": 0
-  },
-  "wahyu1ptv.pages.dev": {
-    "last_scanned": "2026-04-05T03:44:32+00:00",
-    "malicious": 1,
     "suspicious": 0
   },
   "wapka-cdn.zuna.id": {
