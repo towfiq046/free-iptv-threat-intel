@@ -770,9 +770,9 @@
     "suspicious": 0
   },
   "190.242.59.52": {
-    "last_scanned": "2026-03-06T07:10:15+00:00",
-    "malicious": 1,
-    "suspicious": 1
+    "last_scanned": "2026-05-21T18:09:57+00:00",
+    "malicious": 3,
+    "suspicious": 4
   },
   "190.60.33.245:4002": {
     "last_scanned": "2025-12-11T01:46:07+00:00",
@@ -1045,7 +1045,7 @@
     "suspicious": 0
   },
   "217.182.77.27": {
-    "last_scanned": "2026-03-17T20:28:25+00:00",
+    "last_scanned": "2026-05-17T10:10:08+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -1090,9 +1090,9 @@
     "suspicious": 1
   },
   "38.49.128.38": {
-    "last_scanned": "2026-02-19T01:01:55+00:00",
+    "last_scanned": "2026-05-21T18:09:55+00:00",
     "malicious": 1,
-    "suspicious": 1
+    "suspicious": 2
   },
   "38.64.72.148": {
     "last_scanned": "2026-04-06T09:43:25+00:00",
@@ -1950,7 +1950,7 @@
     "suspicious": 0
   },
   "91.220.221.60": {
-    "last_scanned": "2026-04-04T09:02:02+00:00",
+    "last_scanned": "2026-05-18T11:58:35+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2320,7 +2320,7 @@
     "suspicious": 0
   },
   "amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv": {
-    "last_scanned": "2026-04-02T17:11:08+00:00",
+    "last_scanned": "2026-05-20T18:32:59+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -2570,7 +2570,7 @@
     "suspicious": 0
   },
   "byecableiptvnew3.ddns.net": {
-    "last_scanned": "2026-03-17T20:14:03+00:00",
+    "last_scanned": "2026-05-17T17:13:42+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3249,6 +3249,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "flashbacktv.vip": {
+    "last_scanned": "2026-05-20T18:34:31+00:00",
+    "malicious": 4,
+    "suspicious": 0
+  },
   "framerusercontent.com": {
     "last_scanned": "2026-04-04T03:19:10+00:00",
     "malicious": 1,
@@ -3367,6 +3372,11 @@
   "hls.watchfriends.net": {
     "last_scanned": "2026-01-19T02:02:43+00:00",
     "malicious": 2,
+    "suspicious": 0
+  },
+  "hls.yourtime.live": {
+    "last_scanned": "2026-05-18T11:58:24+00:00",
+    "malicious": 1,
     "suspicious": 0
   },
   "home-playtv.com": {
@@ -3491,11 +3501,6 @@
   },
   "iptv36.my.to": {
     "last_scanned": "2026-01-03T17:38:57+00:00",
-    "malicious": 1,
-    "suspicious": 0
-  },
-  "iptvtree.net": {
-    "last_scanned": "2026-04-06T17:09:45+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -3889,6 +3894,11 @@
     "malicious": 1,
     "suspicious": 0
   },
+  "m9.media9news.com": {
+    "last_scanned": "2026-05-21T11:44:34+00:00",
+    "malicious": 1,
+    "suspicious": 0
+  },
   "mag.premiumplus.tv": {
     "last_scanned": "2026-01-24T11:31:29+00:00",
     "malicious": 1,
@@ -3920,7 +3930,7 @@
     "suspicious": 0
   },
   "master.tucableip.com": {
-    "last_scanned": "2026-03-18T13:31:26+00:00",
+    "last_scanned": "2026-05-19T11:40:16+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -3970,7 +3980,7 @@
     "suspicious": 0
   },
   "mgugaklive.nowcdn.co.kr": {
-    "last_scanned": "2026-04-04T03:20:51+00:00",
+    "last_scanned": "2026-05-19T04:25:27+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -4260,7 +4270,7 @@
     "suspicious": 0
   },
   "planeta.mediacdn.ru": {
-    "last_scanned": "2026-04-05T09:02:11+00:00",
+    "last_scanned": "2026-05-19T18:18:21+00:00",
     "malicious": 2,
     "suspicious": 0
   },
@@ -5265,7 +5275,7 @@
     "suspicious": 0
   },
   "stmv1.srvif.com": {
-    "last_scanned": "2026-04-01T21:02:21+00:00",
+    "last_scanned": "2026-05-17T10:10:56+00:00",
     "malicious": 1,
     "suspicious": 0
   },
@@ -5330,8 +5340,8 @@
     "suspicious": 0
   },
   "stream.rtvze.ba": {
-    "last_scanned": "2026-04-02T03:28:29+00:00",
-    "malicious": 3,
+    "last_scanned": "2026-05-20T18:33:00+00:00",
+    "malicious": 6,
     "suspicious": 0
   },
   "stream.suararadio.com": {
@@ -5425,7 +5435,7 @@
     "suspicious": 0
   },
   "streamingtv.masplay.x10.mx": {
-    "last_scanned": "2026-04-03T05:52:27+00:00",
+    "last_scanned": "2026-05-18T11:58:34+00:00",
     "malicious": 1,
     "suspicious": 0
   },
